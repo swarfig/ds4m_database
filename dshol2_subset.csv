@@ -1,0 +1,1804 @@
+Unnamed: 0,countryOrRegion,normalizeHolidayName,isPaidTimeOff,countryRegionCode,date
+23582,India,Gandhi Jayanti,True,IN,2015-10-02
+23583,Germany,Tag der Deutschen Einheit,True,DE,2015-10-03
+23586,Croatia,Dan neovisnosti,True,HR,2015-10-08
+23589,Argentina,Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],True,AR,2015-10-12
+23590,Brazil,Nossa Senhora Aparecida,True,BR,2015-10-12
+23591,Canada,Thanksgiving,True,CA,2015-10-12
+23592,Colombia,Descubrimiento de América [Discovery of America],True,CO,2015-10-12
+23593,Japan,体育の日,True,JP,2015-10-12
+23594,Spain,Día de la Hispanidad,True,ES,2015-10-12
+23595,United States,Columbus Day,False,US,2015-10-12
+23596,Ukraine,День захисника України,True,UA,2015-10-14
+23599,Hungary,Nemzeti ünnep,True,HU,2015-10-23
+23602,Austria,Nationalfeiertag,True,AT,2015-10-26
+23603,Ireland,October Bank Holiday,True,IE,2015-10-26
+23604,New Zealand,Labour Day,True,NZ,2015-10-26
+23605,Czech,Den vzniku samostatného československého státu,True,CZ,2015-10-28
+23606,Finland,Pyhäinpäivä,True,FI,2015-10-31
+23607,Slovenia,dan reformacije,True,SI,2015-10-31
+23608,Sweden,Alla helgons dag,True,SE,2015-10-31
+23609,Austria,Allerheiligen,True,AT,2015-11-01
+23610,Belgium,Allerheiligen,True,BE,2015-11-01
+23611,Croatia,Svi sveti,True,HR,2015-11-01
+23612,France,Toussaint,True,FR,2015-11-01
+23613,Hungary,Mindenszentek,True,HU,2015-11-01
+23614,Italy,Tutti i Santi,True,IT,2015-11-01
+23616,Poland,Uroczystość Wszystkich świętych,True,PL,2015-11-01
+23617,Slovenia,dan spomina na mrtve,True,SI,2015-11-01
+23618,Spain,Todos los Santos,True,ES,2015-11-01
+23620,Brazil,Finados,True,BR,2015-11-02
+23621,Colombia,Dia de Todos los Santos [All Saint's Day],True,CO,2015-11-02
+23622,Japan,文化の日,True,JP,2015-11-03
+23623,Belarus,День Октябрьской революции,True,BY,2015-11-07
+23626,Belgium,Wapenstilstand,True,BE,2015-11-11
+23627,France,Armistice 1918,True,FR,2015-11-11
+23628,Poland,Narodowe Święto Niepodległości,True,PL,2015-11-11
+23629,United States,Veterans Day,False,US,2015-11-11
+23630,Brazil,Proclamação da República,True,BR,2015-11-15
+23633,Colombia,Independencia de Cartagena [Independence of Cartagena],True,CO,2015-11-16
+23634,Mexico,Día de la Revolución [Revolution Day],True,MX,2015-11-16
+23635,Czech,Den boje za svobodu a demokracii,True,CZ,2015-11-17
+23636,Argentina,Día Nacional de la Soberanía [National Sovereignty Day],True,AR,2015-11-20
+23637,Mexico,Día de la Revolución [Revolution Day],True,MX,2015-11-20
+23640,Japan,勤労感謝の日,True,JP,2015-11-23
+23641,United States,Thanksgiving,True,US,2015-11-26
+23644,Scotland,St. Andrew's Day,True,UK,2015-11-30
+23645,United Kingdom,St. Andrew's Day,False,GB,2015-11-30
+23646,Finland,Itsenäisyyspäivä,True,FI,2015-12-06
+23648,Spain,Día de la constitución Española,True,ES,2015-12-06
+23650,Argentina,La Inmaculada Concepción [Immaculate Conception],True,AR,2015-12-08
+23651,Austria,Mariä Empfängnis,True,AT,2015-12-08
+23652,Colombia,La Inmaculada Concepción [Immaculate Conception],True,CO,2015-12-08
+23653,Italy,Immacolata Concezione,True,IT,2015-12-08
+23654,Portugal,Imaculada Conceição,True,PT,2015-12-08
+23655,Spain,La Inmaculada Concepción,True,ES,2015-12-08
+23658,South Africa,Day of Reconciliation,True,ZA,2015-12-16
+23661,Japan,天皇誕生日,True,JP,2015-12-23
+23662,Czech,Štědrý den,True,CZ,2015-12-24
+23663,Finland,Jouluaatto,True,FI,2015-12-24
+23664,Hungary,Szenteste,True,HU,2015-12-24
+23665,Sweden,Julafton,True,SE,2015-12-24
+23666,Argentina,Navidad [Christmas],True,AR,2015-12-25
+23667,Australia,Christmas Day,True,AU,2015-12-25
+23668,Austria,Christtag,True,AT,2015-12-25
+23669,Belarus,Рождество Христово (католическое Рождество),True,BY,2015-12-25
+23670,Belgium,Kerstmis,True,BE,2015-12-25
+23671,Brazil,Natal,True,BR,2015-12-25
+23672,Canada,Christmas Day,True,CA,2015-12-25
+23673,Colombia,Navidad [Christmas],True,CO,2015-12-25
+23674,Croatia,Božić,True,HR,2015-12-25
+23675,Czech,1. svátek vánoční,True,CZ,2015-12-25
+23676,Denmark,Juledag,True,DK,2015-12-25
+23677,England,Christmas Day,True,UK,2015-12-25
+23678,Finland,Joulupäivä,True,FI,2015-12-25
+23679,France,Noël,True,FR,2015-12-25
+23680,Germany,Erster Weihnachtstag,True,DE,2015-12-25
+23681,Hungary,Karácsony,True,HU,2015-12-25
+23682,India,Christmas,False,IN,2015-12-25
+23683,Ireland,Christmas Day,True,IE,2015-12-25
+23684,Isle of Man,Christmas Day,True,IM,2015-12-25
+23685,Italy,Natale,True,IT,2015-12-25
+23686,Mexico,Navidad [Christmas],True,MX,2015-12-25
+23687,Netherlands,Eerste Kerstdag,True,NL,2015-12-25
+23688,New Zealand,Christmas Day,True,NZ,2015-12-25
+23689,Northern Ireland,Christmas Day,True,UK,2015-12-25
+23690,Norway,Første juledag,True,NO,2015-12-25
+23691,Poland,Boże Narodzenie (pierwszy dzień),True,PL,2015-12-25
+23692,Portugal,Dia de Natal,True,PT,2015-12-25
+23693,Scotland,Christmas Day,True,UK,2015-12-25
+23694,Slovenia,Božič,True,SI,2015-12-25
+23695,South Africa,Christmas Day,True,ZA,2015-12-25
+23696,Spain,Navidad,True,ES,2015-12-25
+23697,Sweden,Juldagen,True,SE,2015-12-25
+23698,Switzerland,Weihnachten,True,CH,2015-12-25
+23699,United Kingdom,Christmas Day,True,GB,2015-12-25
+23700,United States,Christmas Day,True,US,2015-12-25
+23701,Wales,Christmas Day,True,UK,2015-12-25
+23702,Australia,Boxing Day,True,AU,2015-12-26
+23703,Austria,Stefanitag,True,AT,2015-12-26
+23704,Croatia,Sveti Stjepan,True,HR,2015-12-26
+23705,Czech,2. svátek vánoční,True,CZ,2015-12-26
+23706,Denmark,Anden juledag,True,DK,2015-12-26
+23707,England,Boxing Day,True,UK,2015-12-26
+23708,Finland,Tapaninpäivä,True,FI,2015-12-26
+23709,Germany,Zweiter Weihnachtstag,True,DE,2015-12-26
+23710,Hungary,Karácsony másnapja,True,HU,2015-12-26
+23711,Ireland,Boxing Day,True,IE,2015-12-26
+23712,Isle of Man,Boxing Day,True,IM,2015-12-26
+23713,Italy,Santo Stefano,True,IT,2015-12-26
+23714,Netherlands,Tweede Kerstdag,True,NL,2015-12-26
+23715,New Zealand,Boxing Day,True,NZ,2015-12-26
+23716,Northern Ireland,Boxing Day,True,UK,2015-12-26
+23717,Norway,Andre juledag,True,NO,2015-12-26
+23718,Poland,Boże Narodzenie (drugi dzień),True,PL,2015-12-26
+23719,Scotland,Boxing Day,True,UK,2015-12-26
+23720,Slovenia,dan samostojnosti in enotnosti,True,SI,2015-12-26
+23721,South Africa,Day of Goodwill,True,ZA,2015-12-26
+23722,Sweden,Annandag jul,True,SE,2015-12-26
+23723,United Kingdom,Boxing Day,True,GB,2015-12-26
+23724,Wales,Boxing Day,True,UK,2015-12-26
+23727,Australia,Boxing Day,True,AU,2015-12-28
+23728,Canada,Boxing Day,True,CA,2015-12-28
+23729,England,Boxing Day,True,UK,2015-12-28
+23730,Ireland,Boxing Day,True,IE,2015-12-28
+23731,Isle of Man,Boxing Day,True,IM,2015-12-28
+23732,New Zealand,Boxing Day,True,NZ,2015-12-28
+23733,Northern Ireland,Boxing Day,True,UK,2015-12-28
+23734,Scotland,Boxing Day,True,UK,2015-12-28
+23735,United Kingdom,Boxing Day,True,GB,2015-12-28
+23736,Wales,Boxing Day,True,UK,2015-12-28
+23737,Sweden,Nyårsafton,True,SE,2015-12-31
+23738,Argentina,Año Nuevo [New Year's Day],True,AR,2016-01-01
+23739,Australia,New Year's Day,True,AU,2016-01-01
+23740,Austria,Neujahr,True,AT,2016-01-01
+23741,Belarus,Новый год,True,BY,2016-01-01
+23742,Belgium,Nieuwjaarsdag,True,BE,2016-01-01
+23743,Brazil,Ano novo,True,BR,2016-01-01
+23744,Canada,New Year's Day,True,CA,2016-01-01
+23745,Colombia,Año Nuevo [New Year's Day],True,CO,2016-01-01
+23746,Croatia,Nova Godina,True,HR,2016-01-01
+23747,Czech,Den obnovy samostatného českého státu,True,CZ,2016-01-01
+23748,Denmark,Nytårsdag,True,DK,2016-01-01
+23749,England,New Year's Day,True,UK,2016-01-01
+23750,Finland,Uudenvuodenpäivä,True,FI,2016-01-01
+23751,France,Jour de l'an,True,FR,2016-01-01
+23752,Germany,Neujahr,True,DE,2016-01-01
+23753,Hungary,Újév,True,HU,2016-01-01
+23754,Ireland,New Year's Day,True,IE,2016-01-01
+23755,Isle of Man,New Year's Day,True,IM,2016-01-01
+23756,Italy,Capodanno,True,IT,2016-01-01
+23757,Japan,元日,True,JP,2016-01-01
+23758,Mexico,Año Nuevo [New Year's Day],True,MX,2016-01-01
+23759,Netherlands,Nieuwjaarsdag,True,NL,2016-01-01
+23760,New Zealand,New Year's Day,True,NZ,2016-01-01
+23761,Northern Ireland,New Year's Day,True,UK,2016-01-01
+23762,Norway,Første nyttårsdag,True,NO,2016-01-01
+23763,Poland,Nowy Rok,True,PL,2016-01-01
+23764,Portugal,Ano Novo,True,PT,2016-01-01
+23765,Scotland,New Year's Day,True,UK,2016-01-01
+23766,Slovenia,novo leto,True,SI,2016-01-01
+23767,South Africa,New Year's Day,True,ZA,2016-01-01
+23768,Spain,Año nuevo,True,ES,2016-01-01
+23769,Sweden,Nyårsdagen,True,SE,2016-01-01
+23770,Switzerland,Neujahrestag,True,CH,2016-01-01
+23771,Ukraine,Новий рік,True,UA,2016-01-01
+23772,United Kingdom,New Year's Day,True,GB,2016-01-01
+23773,United States,New Year's Day,True,US,2016-01-01
+23774,Wales,New Year's Day,True,UK,2016-01-01
+23775,New Zealand,Day after New Year's Day,True,NZ,2016-01-02
+23776,Scotland,New Year Holiday,True,UK,2016-01-02
+23777,United Kingdom,New Year Holiday,True,GB,2016-01-02
+23780,New Zealand,Day after New Year's Day,True,NZ,2016-01-04
+23781,Scotland,New Year Holiday,True,UK,2016-01-04
+23782,United Kingdom,New Year Holiday,True,GB,2016-01-04
+23783,Austria,Heilige Drei Könige,True,AT,2016-01-06
+23784,Croatia,Sveta tri kralja,True,HR,2016-01-06
+23785,Finland,Loppiainen,True,FI,2016-01-06
+23786,Italy,Epifania del Signore,True,IT,2016-01-06
+23787,Poland,Święto Trzech Króli,True,PL,2016-01-06
+23788,Spain,Epifanía del Señor,True,ES,2016-01-06
+23789,Sweden,Trettondedag jul,True,SE,2016-01-06
+23790,Belarus,Рождество Христово (православное Рождество),True,BY,2016-01-07
+23791,Ukraine,Різдво Христове (православне),True,UA,2016-01-07
+23794,Colombia,Día de los Reyes Magos [Epiphany],True,CO,2016-01-11
+23795,Japan,成人の日,True,JP,2016-01-11
+23796,India,Makar Sankranti / Pongal,False,IN,2016-01-14
+23799,United States,Martin Luther King Jr. Day,True,US,2016-01-18
+23802,Australia,Australia Day,True,AU,2016-01-26
+23803,India,Republic Day,True,IN,2016-01-26
+23806,Mexico,Día de la Constitución [Constitution Day],True,MX,2016-02-01
+23807,Mexico,Día de la Constitución [Constitution Day],True,MX,2016-02-05
+23808,New Zealand,Waitangi Day,True,NZ,2016-02-06
+23811,Argentina,Día de Carnaval [Carnival's Day],True,AR,2016-02-08
+23812,New Zealand,Waitangi Day,True,NZ,2016-02-08
+23813,Slovenia,Prešernov dan,True,SI,2016-02-08
+23814,Argentina,Día de Carnaval [Carnival's Day],True,AR,2016-02-09
+23815,Brazil,Carnaval,True,BR,2016-02-09
+23816,Brazil,Quarta-feira de cinzas (Início da Quaresma),True,BR,2016-02-10
+23817,Japan,建国記念の日,True,JP,2016-02-11
+23820,Canada,Family Day,True,CA,2016-02-15
+23821,United States,Washington's Birthday,True,US,2016-02-15
+23828,Belarus,День женщин,True,BY,2016-03-08
+23829,Ukraine,Міжнародний жіночий день,True,UA,2016-03-08
+23832,Hungary,Nemzeti ünnep előtti pihenőnap,True,HU,2016-03-14
+23833,Hungary,Nemzeti ünnep,True,HU,2016-03-15
+23834,Ireland,St. Patrick's Day,True,IE,2016-03-17
+23835,Northern Ireland,St. Patrick's Day,True,UK,2016-03-17
+23836,United Kingdom,St. Patrick's Day,False,GB,2016-03-17
+23837,Denmark,Palmesøndag,True,DK,2016-03-20
+23838,Japan,春分の日,True,JP,2016-03-20
+23841,Colombia,Día de San José [Saint Joseph's Day],True,CO,2016-03-21
+23842,Japan,振替休日,True,JP,2016-03-21
+23843,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2016-03-21
+23844,South Africa,Human Rights Day,True,ZA,2016-03-21
+23845,Argentina,"Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)], Día Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice]",True,AR,2016-03-24
+23846,Colombia,Jueves Santo [Maundy Thursday],True,CO,2016-03-24
+23847,Denmark,Skærtorsdag,True,DK,2016-03-24
+23848,Norway,Skjærtorsdag,True,NO,2016-03-24
+23849,Argentina,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],True,AR,2016-03-25
+23850,Australia,Good Friday,True,AU,2016-03-25
+23851,Brazil,Sexta-feira Santa,True,BR,2016-03-25
+23852,Canada,Good Friday,True,CA,2016-03-25
+23853,Colombia,Viernes Santo [Good Friday],True,CO,2016-03-25
+23854,Czech,Velký pátek,True,CZ,2016-03-25
+23855,Denmark,Langfredag,True,DK,2016-03-25
+23856,England,Good Friday,True,UK,2016-03-25
+23857,Finland,Pitkäperjantai,True,FI,2016-03-25
+23858,Germany,Karfreitag,True,DE,2016-03-25
+23859,Isle of Man,Good Friday,True,IM,2016-03-25
+23860,Netherlands,Goede Vrijdag,True,NL,2016-03-25
+23861,New Zealand,Good Friday,True,NZ,2016-03-25
+23862,Northern Ireland,Good Friday,True,UK,2016-03-25
+23863,Norway,Langfredag,True,NO,2016-03-25
+23864,Portugal,Sexta-feira Santa,True,PT,2016-03-25
+23865,Scotland,Good Friday,True,UK,2016-03-25
+23866,South Africa,Good Friday,True,ZA,2016-03-25
+23867,Sweden,Långfredagen,True,SE,2016-03-25
+23868,Switzerland,Karfreitag,True,CH,2016-03-25
+23869,United Kingdom,Good Friday,True,GB,2016-03-25
+23870,Wales,Good Friday,True,UK,2016-03-25
+23871,Argentina,Día de Pascuas [Easter Day],True,AR,2016-03-27
+23872,Belgium,Pasen,True,BE,2016-03-27
+23873,Brazil,Páscoa,True,BR,2016-03-27
+23874,Croatia,Uskrs,True,HR,2016-03-27
+23875,Denmark,Påskedag,True,DK,2016-03-27
+23876,Finland,Pääsiäispäivä,True,FI,2016-03-27
+23877,Hungary,Húsvét,True,HU,2016-03-27
+23878,Italy,Pasqua di Resurrezione,True,IT,2016-03-27
+23879,Netherlands,Eerste paasdag,True,NL,2016-03-27
+23880,Norway,"Første påskedag, Søndag",True,NO,2016-03-27
+23881,Poland,Niedziela Wielkanocna,True,PL,2016-03-27
+23882,Portugal,Páscoa,True,PT,2016-03-27
+23883,Sweden,"Påskdagen, Söndag",True,SE,2016-03-27
+23884,Switzerland,Ostern,True,CH,2016-03-27
+23885,Australia,Easter Monday,True,AU,2016-03-28
+23886,Austria,Ostermontag,True,AT,2016-03-28
+23887,Belgium,Paasmaandag,True,BE,2016-03-28
+23888,Croatia,Uskrsni ponedjeljak,True,HR,2016-03-28
+23889,Czech,Velikonoční pondělí,True,CZ,2016-03-28
+23890,Denmark,Anden påskedag,True,DK,2016-03-28
+23891,England,Easter Monday,True,UK,2016-03-28
+23892,Finland,2. pääsiäispäivä,True,FI,2016-03-28
+23893,France,Lundi de Pâques,True,FR,2016-03-28
+23894,Germany,Ostermontag,True,DE,2016-03-28
+23895,Hungary,Húsvét Hétfő,True,HU,2016-03-28
+23896,Ireland,Easter Monday,True,IE,2016-03-28
+23897,Isle of Man,Easter Monday,True,IM,2016-03-28
+23898,Italy,Lunedì dell'Angelo,True,IT,2016-03-28
+23899,Netherlands,Tweede paasdag,True,NL,2016-03-28
+23900,New Zealand,Easter Monday,True,NZ,2016-03-28
+23901,Northern Ireland,Easter Monday,True,UK,2016-03-28
+23902,Norway,Andre påskedag,True,NO,2016-03-28
+23903,Poland,Poniedziałek Wielkanocny,True,PL,2016-03-28
+23904,Slovenia,Velikonočni ponedeljek,True,SI,2016-03-28
+23905,South Africa,Family Day,True,ZA,2016-03-28
+23906,Sweden,Annandag påsk,True,SE,2016-03-28
+23907,Switzerland,Ostermontag,True,CH,2016-03-28
+23908,United Kingdom,Easter Monday,True,GB,2016-03-28
+23909,Wales,Easter Monday,True,UK,2016-03-28
+23910,Argentina,Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],True,AR,2016-04-02
+23917,Brazil,Tiradentes,True,BR,2016-04-21
+23918,Denmark,Store bededag,True,DK,2016-04-22
+23921,Australia,Anzac Day,True,AU,2016-04-25
+23922,Italy,Festa della Liberazione,True,IT,2016-04-25
+23923,New Zealand,Anzac Day,True,NZ,2016-04-25
+23924,Portugal,Dia da Liberdade,True,PT,2016-04-25
+23925,Netherlands,Koningsdag,True,NL,2016-04-27
+23926,Slovenia,dan upora proti okupatorju,True,SI,2016-04-27
+23927,South Africa,Freedom Day,True,ZA,2016-04-27
+23928,Japan,昭和の日,True,JP,2016-04-29
+23929,Argentina,Día del Trabajo [Labour Day],True,AR,2016-05-01
+23930,Austria,Staatsfeiertag,True,AT,2016-05-01
+23931,Belarus,Праздник труда,True,BY,2016-05-01
+23932,Belgium,Dag van de Arbeid,True,BE,2016-05-01
+23933,Brazil,Dia Mundial do Trabalho,True,BR,2016-05-01
+23934,Colombia,Día del Trabajo [Labour Day],True,CO,2016-05-01
+23935,Croatia,Međunarodni praznik rada,True,HR,2016-05-01
+23936,Czech,Svátek práce,True,CZ,2016-05-01
+23937,Finland,Vappu,True,FI,2016-05-01
+23938,France,Fête du Travail,True,FR,2016-05-01
+23939,Germany,Erster Mai,True,DE,2016-05-01
+23940,Hungary,A Munka ünnepe,True,HU,2016-05-01
+23941,India,Labour Day,False,IN,2016-05-01
+23942,Italy,Festa dei Lavoratori,True,IT,2016-05-01
+23943,Mexico,Día del Trabajo [Labour Day],True,MX,2016-05-01
+23944,Norway,"Arbeidernes dag, Søndag",True,NO,2016-05-01
+23945,Poland,Święto Państwowe,True,PL,2016-05-01
+23946,Portugal,Dia do Trabalhador,True,PT,2016-05-01
+23947,Slovenia,praznik dela,True,SI,2016-05-01
+23948,South Africa,Workers' Day,True,ZA,2016-05-01
+23949,Spain,Día del Trabajador,True,ES,2016-05-01
+23950,Sweden,"Första maj, Söndag",True,SE,2016-05-01
+23951,Ukraine,"День міжнародної солідарності трудящих, Пасха (Великдень)",True,UA,2016-05-01
+23952,England,May Day,True,UK,2016-05-02
+23953,Ireland,May Day,True,IE,2016-05-02
+23954,Isle of Man,May Day,True,IM,2016-05-02
+23955,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2016-05-02
+23956,Northern Ireland,May Day,True,UK,2016-05-02
+23957,Scotland,May Day,True,UK,2016-05-02
+23958,Slovenia,praznik dela,True,SI,2016-05-02
+23959,South Africa,Workers' Day,True,ZA,2016-05-02
+23960,Ukraine,День міжнародної солідарності трудящих,True,UA,2016-05-02
+23961,United Kingdom,May Day,True,GB,2016-05-02
+23962,Wales,May Day,True,UK,2016-05-02
+23963,Japan,憲法記念日,True,JP,2016-05-03
+23964,Poland,Święto Narodowe Trzeciego Maja,True,PL,2016-05-03
+23965,Japan,みどりの日,True,JP,2016-05-04
+23966,Austria,Christi Himmelfahrt,True,AT,2016-05-05
+23967,Belgium,O.L.H. Hemelvaart,True,BE,2016-05-05
+23968,Denmark,Kristi himmelfartsdag,True,DK,2016-05-05
+23969,Finland,Helatorstai,True,FI,2016-05-05
+23970,France,Ascension,True,FR,2016-05-05
+23971,Germany,Christi Himmelfahrt,True,DE,2016-05-05
+23972,Japan,こどもの日,True,JP,2016-05-05
+23973,Netherlands,Hemelvaart,True,NL,2016-05-05
+23974,Norway,Kristi himmelfartsdag,True,NO,2016-05-05
+23975,Sweden,Kristi himmelsfärdsdag,True,SE,2016-05-05
+23976,Switzerland,Auffahrt,True,CH,2016-05-05
+23977,Czech,Den vítězství,True,CZ,2016-05-08
+23978,France,Armistice 1945,True,FR,2016-05-08
+23981,Belarus,День Победы,True,BY,2016-05-09
+23982,Colombia,Ascensión del señor [Ascension of Jesus],True,CO,2016-05-09
+23983,Ukraine,День перемоги,True,UA,2016-05-09
+23984,Belarus,Радуница,True,BY,2016-05-10
+23985,Belgium,Pinksteren,True,BE,2016-05-15
+23986,Denmark,Pinsedag,True,DK,2016-05-15
+23987,Finland,Helluntaipäivä,True,FI,2016-05-15
+23988,Hungary,Pünkösd,True,HU,2016-05-15
+23989,Netherlands,Eerste Pinksterdag,True,NL,2016-05-15
+23990,Norway,"Første pinsedag, Søndag",True,NO,2016-05-15
+23991,Poland,Zielone Świątki,True,PL,2016-05-15
+23992,Sweden,"Pingstdagen, Söndag",True,SE,2016-05-15
+23993,Switzerland,Pfingsten,True,CH,2016-05-15
+23994,Austria,Pfingstmontag,True,AT,2016-05-16
+23995,Belgium,Pinkstermaandag,True,BE,2016-05-16
+23996,Denmark,Anden pinsedag,True,DK,2016-05-16
+23997,France,Lundi de Pentecôte,True,FR,2016-05-16
+23998,Germany,Pfingstmontag,True,DE,2016-05-16
+23999,Hungary,Pünkösdhétfő,True,HU,2016-05-16
+24000,Netherlands,Tweede Pinksterdag,True,NL,2016-05-16
+24001,Norway,Andre pinsedag,True,NO,2016-05-16
+24002,Switzerland,Pfingstmontag,True,CH,2016-05-16
+24003,Norway,Grunnlovsdag,True,NO,2016-05-17
+24006,Canada,Victoria Day,True,CA,2016-05-23
+24007,Argentina,Día de la Revolucion de Mayo [May Revolution Day],True,AR,2016-05-25
+24008,Austria,Fronleichnam,True,AT,2016-05-26
+24009,Brazil,Corpus Christi,True,BR,2016-05-26
+24010,Croatia,Tijelovo,True,HR,2016-05-26
+24011,Poland,Dzień Bożego Ciała,True,PL,2016-05-26
+24012,Portugal,Corpo de Deus,True,PT,2016-05-26
+24015,Colombia,Corpus Christi [Corpus Christi],True,CO,2016-05-30
+24016,England,Spring Bank Holiday,True,UK,2016-05-30
+24017,Isle of Man,Spring Bank Holiday,True,IM,2016-05-30
+24018,Northern Ireland,Spring Bank Holiday,True,UK,2016-05-30
+24019,Scotland,Spring Bank Holiday,True,UK,2016-05-30
+24020,United Kingdom,Spring Bank Holiday,True,GB,2016-05-30
+24021,United States,Memorial Day,True,US,2016-05-30
+24022,Wales,Spring Bank Holiday,True,UK,2016-05-30
+24023,Italy,Festa della Repubblica,True,IT,2016-06-02
+24024,Isle of Man,TT Bank Holiday,True,IM,2016-06-03
+24027,Colombia,Sagrado Corazón [Sacred Heart],True,CO,2016-06-06
+24028,Ireland,June Bank Holiday,True,IE,2016-06-06
+24029,New Zealand,Queen's Birthday,True,NZ,2016-06-06
+24030,Sweden,Sveriges nationaldag,True,SE,2016-06-06
+24031,Portugal,Dia de Portugal,True,PT,2016-06-10
+24034,South Africa,Youth Day,True,ZA,2016-06-16
+24035,Argentina,Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],True,AR,2016-06-17
+24038,Ukraine,Трійця,True,UA,2016-06-19
+24039,Argentina,Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],True,AR,2016-06-20
+24040,Croatia,Dan antifašističke borbe,True,HR,2016-06-22
+24041,Finland,Juhannusaatto,True,FI,2016-06-24
+24042,Sweden,Midsommarafton,True,SE,2016-06-24
+24043,Croatia,Dan državnosti,True,HR,2016-06-25
+24044,Finland,Juhannuspäivä,True,FI,2016-06-25
+24045,Slovenia,dan državnosti,True,SI,2016-06-25
+24046,Sweden,Midsommardagen,True,SE,2016-06-25
+24049,Ukraine,День Конституції України,True,UA,2016-06-28
+24050,Canada,Canada Day,True,CA,2016-07-01
+24051,Belarus,День Независимости Республики Беларусь (День Республики),True,BY,2016-07-03
+24054,Colombia,San Pedro y San Pablo [Saint Peter and Saint Paul],True,CO,2016-07-04
+24055,United States,Independence Day,True,US,2016-07-04
+24056,Czech,Den slovanských věrozvěstů Cyrila a Metoděje,True,CZ,2016-07-05
+24057,Isle of Man,Tynwald Day,True,IM,2016-07-05
+24058,Czech,Den upálení mistra Jana Husa,True,CZ,2016-07-06
+24059,Argentina,Día de la Independencia [Independence Day],True,AR,2016-07-09
+24062,Northern Ireland,Battle of the Boyne,True,UK,2016-07-12
+24063,United Kingdom,Battle of the Boyne,False,GB,2016-07-12
+24064,France,Fête nationale,True,FR,2016-07-14
+24067,Japan,海の日,True,JP,2016-07-18
+24068,Colombia,Día de la Independencia [Independence Day],True,CO,2016-07-20
+24069,Belgium,Nationale feestdag,True,BE,2016-07-21
+24074,Canada,Civic Holiday,True,CA,2016-08-01
+24075,Ireland,Summer Bank Holiday,True,IE,2016-08-01
+24076,Scotland,Summer Bank Holiday,True,UK,2016-08-01
+24077,Switzerland,Nationalfeiertag,True,CH,2016-08-01
+24078,United Kingdom,Summer Bank Holiday,False,GB,2016-08-01
+24079,South Africa,Local government elections,True,ZA,2016-08-03
+24080,Croatia,Dan pobjede i domovinske zahvalnosti,True,HR,2016-08-05
+24081,Colombia,Batalla de Boyacá [Battle of Boyacá],True,CO,2016-08-07
+24084,South Africa,National Women's Day,True,ZA,2016-08-09
+24085,Japan,山の日,True,JP,2016-08-11
+24088,Austria,Mariä Himmelfahrt,True,AT,2016-08-15
+24089,Belgium,O.L.V. Hemelvaart,True,BE,2016-08-15
+24090,Colombia,La Asunción [Assumption of Mary],True,CO,2016-08-15
+24091,Croatia,Velika Gospa,True,HR,2016-08-15
+24092,France,Assomption,True,FR,2016-08-15
+24093,India,Independence Day,True,IN,2016-08-15
+24094,Italy,Assunzione della Vergine,True,IT,2016-08-15
+24095,Poland,Wniebowzięcie Najświętszej Marii Panny,True,PL,2016-08-15
+24096,Portugal,Assunção de Nossa Senhora,True,PT,2016-08-15
+24097,Slovenia,Marijino vnebovzetje,True,SI,2016-08-15
+24098,Spain,Asunción de la Virgen,True,ES,2016-08-15
+24099,Argentina,Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],True,AR,2016-08-17
+24100,Hungary,Az államalapítás ünnepe,True,HU,2016-08-20
+24103,Ukraine,День незалежності України,True,UA,2016-08-24
+24106,England,Late Summer Bank Holiday,True,UK,2016-08-29
+24107,Isle of Man,Late Summer Bank Holiday,True,IM,2016-08-29
+24108,Northern Ireland,Late Summer Bank Holiday,True,UK,2016-08-29
+24109,United Kingdom,Late Summer Bank Holiday,True,GB,2016-08-29
+24110,Wales,Late Summer Bank Holiday,True,UK,2016-08-29
+24113,Canada,Labour Day,True,CA,2016-09-05
+24114,United States,Labor Day,True,US,2016-09-05
+24115,Brazil,Independência do Brasil,True,BR,2016-09-07
+24118,Mexico,Día de la Independencia [Independence Day],True,MX,2016-09-16
+24121,Japan,敬老の日,True,JP,2016-09-19
+24122,Japan,秋分の日,True,JP,2016-09-22
+24123,South Africa,Heritage Day,True,ZA,2016-09-24
+24126,Czech,Den české státnosti,True,CZ,2016-09-28
+24127,India,Gandhi Jayanti,True,IN,2016-10-02
+24130,Germany,Tag der Deutschen Einheit,True,DE,2016-10-03
+24131,Portugal,Implantação da República,True,PT,2016-10-05
+24132,Croatia,Dan neovisnosti,True,HR,2016-10-08
+24135,Canada,Thanksgiving,True,CA,2016-10-10
+24136,Japan,体育の日,True,JP,2016-10-10
+24137,United States,Columbus Day,False,US,2016-10-10
+24138,Argentina,Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],True,AR,2016-10-12
+24139,Brazil,Nossa Senhora Aparecida,True,BR,2016-10-12
+24140,Spain,Día de la Hispanidad,True,ES,2016-10-12
+24141,Ukraine,День захисника України,True,UA,2016-10-14
+24144,Colombia,Descubrimiento de América [Discovery of America],True,CO,2016-10-17
+24145,Hungary,Nemzeti ünnep,True,HU,2016-10-23
+24148,New Zealand,Labour Day,True,NZ,2016-10-24
+24149,Austria,Nationalfeiertag,True,AT,2016-10-26
+24150,Czech,Den vzniku samostatného československého státu,True,CZ,2016-10-28
+24153,Hungary,Mindenszentek előtti pihenőnap,True,HU,2016-10-31
+24154,Ireland,October Bank Holiday,True,IE,2016-10-31
+24155,Slovenia,dan reformacije,True,SI,2016-10-31
+24156,Austria,Allerheiligen,True,AT,2016-11-01
+24157,Belgium,Allerheiligen,True,BE,2016-11-01
+24158,Croatia,Svi sveti,True,HR,2016-11-01
+24159,France,Toussaint,True,FR,2016-11-01
+24160,Hungary,Mindenszentek,True,HU,2016-11-01
+24161,Italy,Tutti i Santi,True,IT,2016-11-01
+24162,Poland,Uroczystość Wszystkich świętych,True,PL,2016-11-01
+24163,Portugal,Dia de Todos os Santos,True,PT,2016-11-01
+24164,Slovenia,dan spomina na mrtve,True,SI,2016-11-01
+24165,Spain,Todos los Santos,True,ES,2016-11-01
+24166,Brazil,Finados,True,BR,2016-11-02
+24167,Japan,文化の日,True,JP,2016-11-03
+24168,Finland,Pyhäinpäivä,True,FI,2016-11-05
+24169,Sweden,Alla helgons dag,True,SE,2016-11-05
+24172,Belarus,День Октябрьской революции,True,BY,2016-11-07
+24173,Colombia,Dia de Todos los Santos [All Saint's Day],True,CO,2016-11-07
+24174,Belgium,Wapenstilstand,True,BE,2016-11-11
+24175,France,Armistice 1918,True,FR,2016-11-11
+24176,Poland,Narodowe Święto Niepodległości,True,PL,2016-11-11
+24177,United States,Veterans Day,False,US,2016-11-11
+24180,Colombia,Independencia de Cartagena [Independence of Cartagena],True,CO,2016-11-14
+24181,Brazil,Proclamação da República,True,BR,2016-11-15
+24182,Czech,Den boje za svobodu a demokracii,True,CZ,2016-11-17
+24183,Argentina,Día Nacional de la Soberanía [National Sovereignty Day],True,AR,2016-11-20
+24184,Mexico,Día de la Revolución [Revolution Day],True,MX,2016-11-20
+24187,Mexico,Día de la Revolución [Revolution Day],True,MX,2016-11-21
+24188,Japan,勤労感謝の日,True,JP,2016-11-23
+24189,United States,Thanksgiving,True,US,2016-11-24
+24192,Scotland,St. Andrew's Day,True,UK,2016-11-30
+24193,United Kingdom,St. Andrew's Day,False,GB,2016-11-30
+24194,Portugal,Restauração da Independência,True,PT,2016-12-01
+24197,Finland,Itsenäisyyspäivä,True,FI,2016-12-06
+24198,Spain,Día de la constitución Española,True,ES,2016-12-06
+24199,Argentina,La Inmaculada Concepción [Immaculate Conception],True,AR,2016-12-08
+24200,Austria,Mariä Empfängnis,True,AT,2016-12-08
+24201,Colombia,La Inmaculada Concepción [Immaculate Conception],True,CO,2016-12-08
+24202,Italy,Immacolata Concezione,True,IT,2016-12-08
+24203,Portugal,Imaculada Conceição,True,PT,2016-12-08
+24204,Spain,La Inmaculada Concepción,True,ES,2016-12-08
+24207,South Africa,Day of Reconciliation,True,ZA,2016-12-16
+24210,Japan,天皇誕生日,True,JP,2016-12-23
+24211,Czech,Štědrý den,True,CZ,2016-12-24
+24212,Finland,Jouluaatto,True,FI,2016-12-24
+24213,Sweden,Julafton,True,SE,2016-12-24
+24214,Argentina,Navidad [Christmas],True,AR,2016-12-25
+24215,Australia,Christmas Day,True,AU,2016-12-25
+24216,Austria,Christtag,True,AT,2016-12-25
+24217,Belarus,Рождество Христово (католическое Рождество),True,BY,2016-12-25
+24218,Belgium,Kerstmis,True,BE,2016-12-25
+24219,Brazil,Natal,True,BR,2016-12-25
+24220,Canada,Christmas Day,True,CA,2016-12-25
+24221,Colombia,Navidad [Christmas],True,CO,2016-12-25
+24222,Croatia,Božić,True,HR,2016-12-25
+24223,Czech,1. svátek vánoční,True,CZ,2016-12-25
+24224,Denmark,Juledag,True,DK,2016-12-25
+24225,England,Christmas Day,True,UK,2016-12-25
+24226,Finland,Joulupäivä,True,FI,2016-12-25
+24227,France,Noël,True,FR,2016-12-25
+24228,Germany,Erster Weihnachtstag,True,DE,2016-12-25
+24229,Hungary,Karácsony,True,HU,2016-12-25
+24230,India,Christmas,False,IN,2016-12-25
+24231,Ireland,Christmas Day,True,IE,2016-12-25
+24232,Isle of Man,Christmas Day,True,IM,2016-12-25
+24233,Italy,Natale,True,IT,2016-12-25
+24234,Mexico,Navidad [Christmas],True,MX,2016-12-25
+24235,Netherlands,Eerste Kerstdag,True,NL,2016-12-25
+24236,New Zealand,Christmas Day,True,NZ,2016-12-25
+24237,Northern Ireland,Christmas Day,True,UK,2016-12-25
+24238,Norway,"Første juledag, Søndag",True,NO,2016-12-25
+24239,Poland,Boże Narodzenie (pierwszy dzień),True,PL,2016-12-25
+24240,Portugal,Dia de Natal,True,PT,2016-12-25
+24241,Scotland,Christmas Day,True,UK,2016-12-25
+24242,Slovenia,Božič,True,SI,2016-12-25
+24243,South Africa,Christmas Day,True,ZA,2016-12-25
+24244,Spain,Navidad,True,ES,2016-12-25
+24245,Sweden,"Juldagen, Söndag",True,SE,2016-12-25
+24246,Switzerland,Weihnachten,True,CH,2016-12-25
+24247,United Kingdom,Christmas Day,True,GB,2016-12-25
+24248,United States,Christmas Day,True,US,2016-12-25
+24249,Wales,Christmas Day,True,UK,2016-12-25
+24250,Australia,Boxing Day,True,AU,2016-12-26
+24251,Austria,Stefanitag,True,AT,2016-12-26
+24252,Canada,Christmas Day,True,CA,2016-12-26
+24253,Croatia,Sveti Stjepan,True,HR,2016-12-26
+24254,Czech,2. svátek vánoční,True,CZ,2016-12-26
+24255,Denmark,Anden juledag,True,DK,2016-12-26
+24256,England,Boxing Day,True,UK,2016-12-26
+24257,Finland,Tapaninpäivä,True,FI,2016-12-26
+24258,Germany,Zweiter Weihnachtstag,True,DE,2016-12-26
+24259,Hungary,Karácsony másnapja,True,HU,2016-12-26
+24260,Ireland,Boxing Day,True,IE,2016-12-26
+24261,Isle of Man,Boxing Day,True,IM,2016-12-26
+24262,Italy,Santo Stefano,True,IT,2016-12-26
+24263,Mexico,Transmisión del Poder Ejecutivo Federal [Change of Federal Government],True,MX,2016-12-26
+24264,Netherlands,Tweede Kerstdag,True,NL,2016-12-26
+24265,New Zealand,Boxing Day,True,NZ,2016-12-26
+24266,Northern Ireland,Boxing Day,True,UK,2016-12-26
+24267,Norway,Andre juledag,True,NO,2016-12-26
+24268,Poland,Boże Narodzenie (drugi dzień),True,PL,2016-12-26
+24269,Scotland,Boxing Day,True,UK,2016-12-26
+24270,Slovenia,dan samostojnosti in enotnosti,True,SI,2016-12-26
+24271,South Africa,"Christmas Day , Day of Goodwill",True,ZA,2016-12-26
+24272,Sweden,Annandag jul,True,SE,2016-12-26
+24273,United Kingdom,Boxing Day,True,GB,2016-12-26
+24274,United States,Christmas Day,True,US,2016-12-26
+24275,Wales,Boxing Day,True,UK,2016-12-26
+24276,Australia,Christmas Day,True,AU,2016-12-27
+24277,Canada,Boxing Day,True,CA,2016-12-27
+24278,England,Christmas Day,True,UK,2016-12-27
+24279,Ireland,Christmas Day,True,IE,2016-12-27
+24280,Isle of Man,Christmas Day,True,IM,2016-12-27
+24281,New Zealand,Christmas Day,True,NZ,2016-12-27
+24282,Northern Ireland,Christmas Day,True,UK,2016-12-27
+24283,Scotland,Christmas Day,True,UK,2016-12-27
+24284,United Kingdom,Christmas Day,True,GB,2016-12-27
+24285,Wales,Christmas Day,True,UK,2016-12-27
+24286,Sweden,Nyårsafton,True,SE,2016-12-31
+24287,Argentina,Año Nuevo [New Year's Day],True,AR,2017-01-01
+24288,Australia,New Year's Day,True,AU,2017-01-01
+24289,Austria,Neujahr,True,AT,2017-01-01
+24290,Belarus,Новый год,True,BY,2017-01-01
+24291,Belgium,Nieuwjaarsdag,True,BE,2017-01-01
+24292,Brazil,Ano novo,True,BR,2017-01-01
+24293,Canada,New Year's Day,True,CA,2017-01-01
+24294,Croatia,Nova Godina,True,HR,2017-01-01
+24295,Czech,Den obnovy samostatného českého státu,True,CZ,2017-01-01
+24296,Denmark,Nytårsdag,True,DK,2017-01-01
+24297,England,New Year's Day,True,UK,2017-01-01
+24298,Finland,Uudenvuodenpäivä,True,FI,2017-01-01
+24299,France,Jour de l'an,True,FR,2017-01-01
+24300,Germany,Neujahr,True,DE,2017-01-01
+24301,Hungary,Újév,True,HU,2017-01-01
+24302,Ireland,New Year's Day,True,IE,2017-01-01
+24303,Isle of Man,New Year's Day,True,IM,2017-01-01
+24304,Italy,Capodanno,True,IT,2017-01-01
+24305,Japan,元日,True,JP,2017-01-01
+24306,Mexico,Año Nuevo [New Year's Day],True,MX,2017-01-01
+24307,Netherlands,Nieuwjaarsdag,True,NL,2017-01-01
+24308,New Zealand,New Year's Day,True,NZ,2017-01-01
+24309,Northern Ireland,New Year's Day,True,UK,2017-01-01
+24310,Norway,"Første nyttårsdag, Søndag",True,NO,2017-01-01
+24311,Poland,Nowy Rok,True,PL,2017-01-01
+24312,Portugal,Ano Novo,True,PT,2017-01-01
+24313,Scotland,New Year's Day,True,UK,2017-01-01
+24314,Slovenia,novo leto,True,SI,2017-01-01
+24315,South Africa,New Year's Day,True,ZA,2017-01-01
+24316,Spain,Año nuevo,True,ES,2017-01-01
+24317,Sweden,"Nyårsdagen, Söndag",True,SE,2017-01-01
+24318,Switzerland,Neujahrestag,True,CH,2017-01-01
+24319,Ukraine,Новий рік,True,UA,2017-01-01
+24320,United Kingdom,New Year's Day,True,GB,2017-01-01
+24321,United States,New Year's Day,True,US,2017-01-01
+24322,Wales,New Year's Day,True,UK,2017-01-01
+24323,Australia,New Year's Day,True,AU,2017-01-02
+24324,Canada,New Year's Day,True,CA,2017-01-02
+24325,England,New Year's Day,True,UK,2017-01-02
+24326,Ireland,New Year's Day,True,IE,2017-01-02
+24327,Isle of Man,New Year's Day,True,IM,2017-01-02
+24328,Japan,振替休日,True,JP,2017-01-02
+24329,Mexico,Año Nuevo [New Year's Day],True,MX,2017-01-02
+24330,New Zealand,Day after New Year's Day,True,NZ,2017-01-02
+24331,Northern Ireland,New Year's Day,True,UK,2017-01-02
+24332,Scotland,"New Year Holiday, New Year's Day",True,UK,2017-01-02
+24333,Slovenia,novo leto,True,SI,2017-01-02
+24334,South Africa,New Year's Day,True,ZA,2017-01-02
+24335,United Kingdom,"New Year Holiday , New Year's Day",True,GB,2017-01-02
+24336,United States,New Year's Day,True,US,2017-01-02
+24337,Wales,New Year's Day,True,UK,2017-01-02
+24338,New Zealand,New Year's Day,True,NZ,2017-01-03
+24339,Scotland,New Year Holiday,True,UK,2017-01-03
+24340,United Kingdom,New Year Holiday,True,GB,2017-01-03
+24341,Austria,Heilige Drei Könige,True,AT,2017-01-06
+24342,Croatia,Sveta tri kralja,True,HR,2017-01-06
+24343,Finland,Loppiainen,True,FI,2017-01-06
+24344,Italy,Epifania del Signore,True,IT,2017-01-06
+24345,Poland,Święto Trzech Króli,True,PL,2017-01-06
+24346,Spain,Epifanía del Señor,True,ES,2017-01-06
+24347,Sweden,Trettondedag jul,True,SE,2017-01-06
+24348,Belarus,Рождество Христово (православное Рождество),True,BY,2017-01-07
+24349,Ukraine,Різдво Христове (православне),True,UA,2017-01-07
+24352,Colombia,Día de los Reyes Magos [Epiphany],True,CO,2017-01-09
+24353,Japan,成人の日,True,JP,2017-01-09
+24354,India,Makar Sankranti / Pongal,False,IN,2017-01-14
+24357,United States,Martin Luther King Jr. Day,True,US,2017-01-16
+24360,Australia,Australia Day,True,AU,2017-01-26
+24361,India,Republic Day,True,IN,2017-01-26
+24364,Mexico,Día de la Constitución [Constitution Day],True,MX,2017-02-05
+24367,Mexico,Día de la Constitución [Constitution Day],True,MX,2017-02-06
+24368,New Zealand,Waitangi Day,True,NZ,2017-02-06
+24369,Slovenia,Prešernov dan,True,SI,2017-02-08
+24370,Japan,建国記念の日,True,JP,2017-02-11
+24375,Canada,Family Day,True,CA,2017-02-20
+24376,United States,Washington's Birthday,True,US,2017-02-20
+24379,Argentina,Día de Carnaval [Carnival's Day],True,AR,2017-02-27
+24380,Argentina,Día de Carnaval [Carnival's Day],True,AR,2017-02-28
+24381,Brazil,Carnaval,True,BR,2017-02-28
+24382,Brazil,Quarta-feira de cinzas (Início da Quaresma),True,BR,2017-03-01
+24385,Belarus,День женщин,True,BY,2017-03-08
+24386,Ukraine,Міжнародний жіночий день,True,UA,2017-03-08
+24389,Hungary,Nemzeti ünnep,True,HU,2017-03-15
+24390,Ireland,St. Patrick's Day,True,IE,2017-03-17
+24391,Northern Ireland,St. Patrick's Day,True,UK,2017-03-17
+24392,United Kingdom,St. Patrick's Day,False,GB,2017-03-17
+24395,Colombia,Día de San José [Saint Joseph's Day],True,CO,2017-03-20
+24396,Japan,春分の日,True,JP,2017-03-20
+24397,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2017-03-20
+24398,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2017-03-21
+24399,South Africa,Human Rights Day,True,ZA,2017-03-21
+24400,Argentina,Día Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],True,AR,2017-03-24
+24403,Argentina,Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],True,AR,2017-04-02
+24406,Denmark,Palmesøndag,True,DK,2017-04-09
+24409,Argentina,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],True,AR,2017-04-13
+24410,Colombia,Jueves Santo [Maundy Thursday],True,CO,2017-04-13
+24411,Denmark,Skærtorsdag,True,DK,2017-04-13
+24412,Norway,Skjærtorsdag,True,NO,2017-04-13
+24413,Argentina,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],True,AR,2017-04-14
+24414,Australia,Good Friday,True,AU,2017-04-14
+24415,Brazil,Sexta-feira Santa,True,BR,2017-04-14
+24416,Canada,Good Friday,True,CA,2017-04-14
+24417,Colombia,Viernes Santo [Good Friday],True,CO,2017-04-14
+24418,Czech,Velký pátek,True,CZ,2017-04-14
+24419,Denmark,Langfredag,True,DK,2017-04-14
+24420,England,Good Friday,True,UK,2017-04-14
+24421,Finland,Pitkäperjantai,True,FI,2017-04-14
+24422,Germany,Karfreitag,True,DE,2017-04-14
+24423,Hungary,Nagypéntek,True,HU,2017-04-14
+24424,Isle of Man,Good Friday,True,IM,2017-04-14
+24425,Netherlands,Goede Vrijdag,True,NL,2017-04-14
+24426,New Zealand,Good Friday,True,NZ,2017-04-14
+24427,Northern Ireland,Good Friday,True,UK,2017-04-14
+24428,Norway,Langfredag,True,NO,2017-04-14
+24429,Portugal,Sexta-feira Santa,True,PT,2017-04-14
+24430,Scotland,Good Friday,True,UK,2017-04-14
+24431,South Africa,Good Friday,True,ZA,2017-04-14
+24432,Sweden,Långfredagen,True,SE,2017-04-14
+24433,Switzerland,Karfreitag,True,CH,2017-04-14
+24434,United Kingdom,Good Friday,True,GB,2017-04-14
+24435,Wales,Good Friday,True,UK,2017-04-14
+24436,Argentina,Día de Pascuas [Easter Day],True,AR,2017-04-16
+24437,Belgium,Pasen,True,BE,2017-04-16
+24438,Brazil,Páscoa,True,BR,2017-04-16
+24439,Croatia,Uskrs,True,HR,2017-04-16
+24440,Denmark,Påskedag,True,DK,2017-04-16
+24441,Finland,Pääsiäispäivä,True,FI,2017-04-16
+24442,Hungary,Húsvét,True,HU,2017-04-16
+24443,Italy,Pasqua di Resurrezione,True,IT,2017-04-16
+24444,Netherlands,Eerste paasdag,True,NL,2017-04-16
+24445,Norway,"Første påskedag, Søndag",True,NO,2017-04-16
+24446,Poland,Niedziela Wielkanocna,True,PL,2017-04-16
+24447,Portugal,Páscoa,True,PT,2017-04-16
+24448,Sweden,"Påskdagen, Söndag",True,SE,2017-04-16
+24449,Switzerland,Ostern,True,CH,2017-04-16
+24450,Ukraine,Пасха (Великдень),True,UA,2017-04-16
+24451,Australia,Easter Monday,True,AU,2017-04-17
+24452,Austria,Ostermontag,True,AT,2017-04-17
+24453,Belgium,Paasmaandag,True,BE,2017-04-17
+24454,Croatia,Uskrsni ponedjeljak,True,HR,2017-04-17
+24455,Czech,Velikonoční pondělí,True,CZ,2017-04-17
+24456,Denmark,Anden påskedag,True,DK,2017-04-17
+24457,England,Easter Monday,True,UK,2017-04-17
+24458,Finland,2. pääsiäispäivä,True,FI,2017-04-17
+24459,France,Lundi de Pâques,True,FR,2017-04-17
+24460,Germany,Ostermontag,True,DE,2017-04-17
+24461,Hungary,Húsvét Hétfő,True,HU,2017-04-17
+24462,Ireland,Easter Monday,True,IE,2017-04-17
+24463,Isle of Man,Easter Monday,True,IM,2017-04-17
+24464,Italy,Lunedì dell'Angelo,True,IT,2017-04-17
+24465,Netherlands,Tweede paasdag,True,NL,2017-04-17
+24466,New Zealand,Easter Monday,True,NZ,2017-04-17
+24467,Northern Ireland,Easter Monday,True,UK,2017-04-17
+24468,Norway,Andre påskedag,True,NO,2017-04-17
+24469,Poland,Poniedziałek Wielkanocny,True,PL,2017-04-17
+24470,Slovenia,Velikonočni ponedeljek,True,SI,2017-04-17
+24471,South Africa,Family Day,True,ZA,2017-04-17
+24472,Sweden,Annandag påsk,True,SE,2017-04-17
+24473,Switzerland,Ostermontag,True,CH,2017-04-17
+24474,United Kingdom,Easter Monday,True,GB,2017-04-17
+24475,Wales,Easter Monday,True,UK,2017-04-17
+24476,Brazil,Tiradentes,True,BR,2017-04-21
+24479,Australia,Anzac Day,True,AU,2017-04-25
+24480,Belarus,Радуница,True,BY,2017-04-25
+24481,Italy,Festa della Liberazione,True,IT,2017-04-25
+24482,New Zealand,Anzac Day,True,NZ,2017-04-25
+24483,Portugal,Dia da Liberdade,True,PT,2017-04-25
+24484,Netherlands,Koningsdag,True,NL,2017-04-27
+24485,Slovenia,dan upora proti okupatorju,True,SI,2017-04-27
+24486,South Africa,Freedom Day,True,ZA,2017-04-27
+24487,Japan,昭和の日,True,JP,2017-04-29
+24490,Argentina,Día del Trabajo [Labour Day],True,AR,2017-05-01
+24491,Austria,Staatsfeiertag,True,AT,2017-05-01
+24492,Belarus,Праздник труда,True,BY,2017-05-01
+24493,Belgium,Dag van de Arbeid,True,BE,2017-05-01
+24494,Brazil,Dia Mundial do Trabalho,True,BR,2017-05-01
+24495,Colombia,Día del Trabajo [Labour Day],True,CO,2017-05-01
+24496,Croatia,Međunarodni praznik rada,True,HR,2017-05-01
+24497,Czech,Svátek práce,True,CZ,2017-05-01
+24498,England,May Day,True,UK,2017-05-01
+24499,Finland,Vappu,True,FI,2017-05-01
+24500,France,Fête du Travail,True,FR,2017-05-01
+24501,Germany,Erster Mai,True,DE,2017-05-01
+24502,Hungary,A Munka ünnepe,True,HU,2017-05-01
+24503,India,Labour Day,False,IN,2017-05-01
+24504,Ireland,May Day,True,IE,2017-05-01
+24505,Isle of Man,May Day,True,IM,2017-05-01
+24506,Italy,Festa dei Lavoratori,True,IT,2017-05-01
+24507,Mexico,Día del Trabajo [Labour Day],True,MX,2017-05-01
+24508,Northern Ireland,May Day,True,UK,2017-05-01
+24509,Norway,Arbeidernes dag,True,NO,2017-05-01
+24510,Poland,Święto Państwowe,True,PL,2017-05-01
+24511,Portugal,Dia do Trabalhador,True,PT,2017-05-01
+24512,Scotland,May Day,True,UK,2017-05-01
+24513,Slovenia,praznik dela,True,SI,2017-05-01
+24514,South Africa,Workers' Day,True,ZA,2017-05-01
+24515,Spain,Día del Trabajador,True,ES,2017-05-01
+24516,Sweden,Första maj,True,SE,2017-05-01
+24517,Ukraine,День міжнародної солідарності трудящих,True,UA,2017-05-01
+24518,United Kingdom,May Day,True,GB,2017-05-01
+24519,Wales,May Day,True,UK,2017-05-01
+24520,Slovenia,praznik dela,True,SI,2017-05-02
+24521,Ukraine,День міжнародної солідарності трудящих,True,UA,2017-05-02
+24522,Japan,憲法記念日,True,JP,2017-05-03
+24523,Poland,Święto Narodowe Trzeciego Maja,True,PL,2017-05-03
+24524,Japan,みどりの日,True,JP,2017-05-04
+24525,Japan,こどもの日,True,JP,2017-05-05
+24528,Czech,Den vítězství,True,CZ,2017-05-08
+24529,France,Armistice 1945,True,FR,2017-05-08
+24530,Belarus,День Победы,True,BY,2017-05-09
+24531,Ukraine,День перемоги,True,UA,2017-05-09
+24532,Denmark,Store bededag,True,DK,2017-05-12
+24535,Norway,Grunnlovsdag,True,NO,2017-05-17
+24538,Canada,Victoria Day,True,CA,2017-05-22
+24539,Argentina,Día de la Revolucion de Mayo [May Revolution Day],True,AR,2017-05-25
+24540,Austria,Christi Himmelfahrt,True,AT,2017-05-25
+24541,Belgium,O.L.H. Hemelvaart,True,BE,2017-05-25
+24542,Denmark,Kristi himmelfartsdag,True,DK,2017-05-25
+24543,Finland,Helatorstai,True,FI,2017-05-25
+24544,France,Ascension,True,FR,2017-05-25
+24545,Germany,Christi Himmelfahrt,True,DE,2017-05-25
+24546,Netherlands,Hemelvaart,True,NL,2017-05-25
+24547,Norway,Kristi himmelfartsdag,True,NO,2017-05-25
+24548,Sweden,Kristi himmelsfärdsdag,True,SE,2017-05-25
+24549,Switzerland,Auffahrt,True,CH,2017-05-25
+24552,Colombia,Ascensión del señor [Ascension of Jesus],True,CO,2017-05-29
+24553,England,Spring Bank Holiday,True,UK,2017-05-29
+24554,Isle of Man,Spring Bank Holiday,True,IM,2017-05-29
+24555,Northern Ireland,Spring Bank Holiday,True,UK,2017-05-29
+24556,Scotland,Spring Bank Holiday,True,UK,2017-05-29
+24557,United Kingdom,Spring Bank Holiday,True,GB,2017-05-29
+24558,United States,Memorial Day,True,US,2017-05-29
+24559,Wales,Spring Bank Holiday,True,UK,2017-05-29
+24560,Isle of Man,TT Bank Holiday,True,IM,2017-06-02
+24561,Italy,Festa della Repubblica,True,IT,2017-06-02
+24562,Belgium,Pinksteren,True,BE,2017-06-04
+24563,Denmark,Pinsedag,True,DK,2017-06-04
+24564,Finland,Helluntaipäivä,True,FI,2017-06-04
+24565,Hungary,Pünkösd,True,HU,2017-06-04
+24566,Netherlands,Eerste Pinksterdag,True,NL,2017-06-04
+24567,Norway,"Første pinsedag, Søndag",True,NO,2017-06-04
+24568,Poland,Zielone Świątki,True,PL,2017-06-04
+24569,Sweden,"Pingstdagen, Söndag",True,SE,2017-06-04
+24570,Switzerland,Pfingsten,True,CH,2017-06-04
+24571,Ukraine,Трійця,True,UA,2017-06-04
+24572,Austria,Pfingstmontag,True,AT,2017-06-05
+24573,Belgium,Pinkstermaandag,True,BE,2017-06-05
+24574,Denmark,Anden pinsedag,True,DK,2017-06-05
+24575,France,Lundi de Pentecôte,True,FR,2017-06-05
+24576,Germany,Pfingstmontag,True,DE,2017-06-05
+24577,Hungary,Pünkösdhétfő,True,HU,2017-06-05
+24578,Ireland,June Bank Holiday,True,IE,2017-06-05
+24579,Netherlands,Tweede Pinksterdag,True,NL,2017-06-05
+24580,New Zealand,Queen's Birthday,True,NZ,2017-06-05
+24581,Norway,Andre pinsedag,True,NO,2017-06-05
+24582,Switzerland,Pfingstmontag,True,CH,2017-06-05
+24583,Sweden,Sveriges nationaldag,True,SE,2017-06-06
+24584,Portugal,Dia de Portugal,True,PT,2017-06-10
+24587,Austria,Fronleichnam,True,AT,2017-06-15
+24588,Brazil,Corpus Christi,True,BR,2017-06-15
+24589,Croatia,Tijelovo,True,HR,2017-06-15
+24590,Poland,Dzień Bożego Ciała,True,PL,2017-06-15
+24591,Portugal,Corpo de Deus,True,PT,2017-06-15
+24592,South Africa,Youth Day,True,ZA,2017-06-16
+24593,Argentina,Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],True,AR,2017-06-17
+24596,Colombia,Corpus Christi [Corpus Christi],True,CO,2017-06-19
+24597,Argentina,Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],True,AR,2017-06-20
+24598,Croatia,Dan antifašističke borbe,True,HR,2017-06-22
+24599,Finland,Juhannusaatto,True,FI,2017-06-23
+24600,Sweden,Midsommarafton,True,SE,2017-06-23
+24601,Finland,Juhannuspäivä,True,FI,2017-06-24
+24602,Sweden,Midsommardagen,True,SE,2017-06-24
+24603,Croatia,Dan državnosti,True,HR,2017-06-25
+24605,Slovenia,dan državnosti,True,SI,2017-06-25
+24607,Colombia,Sagrado Corazón [Sacred Heart],True,CO,2017-06-26
+24608,Ukraine,День Конституції України,True,UA,2017-06-28
+24609,Canada,Canada Day,True,CA,2017-07-01
+24612,Belarus,День Независимости Республики Беларусь (День Республики),True,BY,2017-07-03
+24613,Canada,Canada Day,True,CA,2017-07-03
+24614,Colombia,San Pedro y San Pablo [Saint Peter and Saint Paul],True,CO,2017-07-03
+24615,United States,Independence Day,True,US,2017-07-04
+24616,Czech,Den slovanských věrozvěstů Cyrila a Metoděje,True,CZ,2017-07-05
+24617,Isle of Man,Tynwald Day,True,IM,2017-07-05
+24618,Czech,Den upálení mistra Jana Husa,True,CZ,2017-07-06
+24619,Argentina,Día de la Independencia [Independence Day],True,AR,2017-07-09
+24622,Northern Ireland,Battle of the Boyne,True,UK,2017-07-12
+24623,United Kingdom,Battle of the Boyne,False,GB,2017-07-12
+24624,France,Fête nationale,True,FR,2017-07-14
+24627,Japan,海の日,True,JP,2017-07-17
+24628,Colombia,Día de la Independencia [Independence Day],True,CO,2017-07-20
+24629,Belgium,Nationale feestdag,True,BE,2017-07-21
+24634,Switzerland,Nationalfeiertag,True,CH,2017-08-01
+24635,Croatia,Dan pobjede i domovinske zahvalnosti,True,HR,2017-08-05
+24638,Canada,Civic Holiday,True,CA,2017-08-07
+24639,Colombia,Batalla de Boyacá [Battle of Boyacá],True,CO,2017-08-07
+24640,Ireland,Summer Bank Holiday,True,IE,2017-08-07
+24641,Scotland,Summer Bank Holiday,True,UK,2017-08-07
+24642,United Kingdom,Summer Bank Holiday,False,GB,2017-08-07
+24643,South Africa,National Women's Day,True,ZA,2017-08-09
+24644,Japan,山の日,True,JP,2017-08-11
+24647,Austria,Mariä Himmelfahrt,True,AT,2017-08-15
+24648,Belgium,O.L.V. Hemelvaart,True,BE,2017-08-15
+24649,Croatia,Velika Gospa,True,HR,2017-08-15
+24650,France,Assomption,True,FR,2017-08-15
+24651,India,Independence Day,True,IN,2017-08-15
+24652,Italy,Assunzione della Vergine,True,IT,2017-08-15
+24653,Poland,Wniebowzięcie Najświętszej Marii Panny,True,PL,2017-08-15
+24654,Portugal,Assunção de Nossa Senhora,True,PT,2017-08-15
+24655,Slovenia,Marijino vnebovzetje,True,SI,2017-08-15
+24656,Spain,Asunción de la Virgen,True,ES,2017-08-15
+24657,Argentina,Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],True,AR,2017-08-17
+24658,Hungary,Az államalapítás ünnepe,True,HU,2017-08-20
+24661,Colombia,La Asunción [Assumption of Mary],True,CO,2017-08-21
+24662,Ukraine,День незалежності України,True,UA,2017-08-24
+24665,England,Late Summer Bank Holiday,True,UK,2017-08-28
+24666,Isle of Man,Late Summer Bank Holiday,True,IM,2017-08-28
+24667,Northern Ireland,Late Summer Bank Holiday,True,UK,2017-08-28
+24668,United Kingdom,Late Summer Bank Holiday,True,GB,2017-08-28
+24669,Wales,Late Summer Bank Holiday,True,UK,2017-08-28
+24672,Canada,Labour Day,True,CA,2017-09-04
+24673,United States,Labor Day,True,US,2017-09-04
+24674,Brazil,Independência do Brasil,True,BR,2017-09-07
+24677,Mexico,Día de la Independencia [Independence Day],True,MX,2017-09-15
+24678,Mexico,Día de la Independencia [Independence Day],True,MX,2017-09-16
+24681,Japan,敬老の日,True,JP,2017-09-18
+24682,Japan,秋分の日,True,JP,2017-09-23
+24684,South Africa,Heritage Day,True,ZA,2017-09-24
+24686,South Africa,Heritage Day,True,ZA,2017-09-25
+24687,Czech,Den české státnosti,True,CZ,2017-09-28
+24690,India,Gandhi Jayanti,True,IN,2017-10-02
+24691,Germany,Tag der Deutschen Einheit,True,DE,2017-10-03
+24692,Portugal,Implantação da República,True,PT,2017-10-05
+24693,Croatia,Dan neovisnosti,True,HR,2017-10-08
+24696,Canada,Thanksgiving,True,CA,2017-10-09
+24697,Japan,体育の日,True,JP,2017-10-09
+24698,United States,Columbus Day,False,US,2017-10-09
+24699,Argentina,Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],True,AR,2017-10-12
+24700,Brazil,Nossa Senhora Aparecida,True,BR,2017-10-12
+24701,Spain,Día de la Hispanidad,True,ES,2017-10-12
+24702,Ukraine,День захисника України,True,UA,2017-10-14
+24705,Colombia,Descubrimiento de América [Discovery of America],True,CO,2017-10-16
+24708,Hungary,Nemzeti ünnep,True,HU,2017-10-23
+24709,New Zealand,Labour Day,True,NZ,2017-10-23
+24710,Austria,Nationalfeiertag,True,AT,2017-10-26
+24711,Czech,Den vzniku samostatného československého státu,True,CZ,2017-10-28
+24714,Ireland,October Bank Holiday,True,IE,2017-10-30
+24715,Germany,Reformationstag,True,DE,2017-10-31
+24716,Slovenia,dan reformacije,True,SI,2017-10-31
+24717,Austria,Allerheiligen,True,AT,2017-11-01
+24718,Belgium,Allerheiligen,True,BE,2017-11-01
+24719,Croatia,Svi sveti,True,HR,2017-11-01
+24720,France,Toussaint,True,FR,2017-11-01
+24721,Hungary,Mindenszentek,True,HU,2017-11-01
+24722,Italy,Tutti i Santi,True,IT,2017-11-01
+24723,Poland,Uroczystość Wszystkich świętych,True,PL,2017-11-01
+24724,Portugal,Dia de Todos os Santos,True,PT,2017-11-01
+24725,Slovenia,dan spomina na mrtve,True,SI,2017-11-01
+24726,Spain,Todos los Santos,True,ES,2017-11-01
+24727,Brazil,Finados,True,BR,2017-11-02
+24728,Japan,文化の日,True,JP,2017-11-03
+24729,Finland,Pyhäinpäivä,True,FI,2017-11-04
+24730,Sweden,Alla helgons dag,True,SE,2017-11-04
+24733,Colombia,Dia de Todos los Santos [All Saint's Day],True,CO,2017-11-06
+24734,Belarus,День Октябрьской революции,True,BY,2017-11-07
+24735,United States,Veterans Day,False,US,2017-11-10
+24736,Belgium,Wapenstilstand,True,BE,2017-11-11
+24737,France,Armistice 1918,True,FR,2017-11-11
+24738,Poland,Narodowe Święto Niepodległości,True,PL,2017-11-11
+24739,United States,Veterans Day,False,US,2017-11-11
+24742,Colombia,Independencia de Cartagena [Independence of Cartagena],True,CO,2017-11-13
+24743,Brazil,Proclamação da República,True,BR,2017-11-15
+24744,Czech,Den boje za svobodu a demokracii,True,CZ,2017-11-17
+24747,Argentina,Día Nacional de la Soberanía [National Sovereignty Day],True,AR,2017-11-20
+24748,Mexico,Día de la Revolución [Revolution Day],True,MX,2017-11-20
+24749,Japan,勤労感謝の日,True,JP,2017-11-23
+24750,United States,Thanksgiving,True,US,2017-11-23
+24753,Scotland,St. Andrew's Day,True,UK,2017-11-30
+24754,United Kingdom,St. Andrew's Day,False,GB,2017-11-30
+24755,Portugal,Restauração da Independência,True,PT,2017-12-01
+24758,Finland,Itsenäisyyspäivä,True,FI,2017-12-06
+24759,Spain,Día de la constitución Española,True,ES,2017-12-06
+24760,Argentina,La Inmaculada Concepción [Immaculate Conception],True,AR,2017-12-08
+24761,Austria,Mariä Empfängnis,True,AT,2017-12-08
+24762,Colombia,La Inmaculada Concepción [Immaculate Conception],True,CO,2017-12-08
+24763,Italy,Immacolata Concezione,True,IT,2017-12-08
+24764,Portugal,Imaculada Conceição,True,PT,2017-12-08
+24765,Spain,La Inmaculada Concepción,True,ES,2017-12-08
+24768,South Africa,Day of Reconciliation,True,ZA,2017-12-16
+24771,Japan,天皇誕生日,True,JP,2017-12-23
+24772,Czech,Štědrý den,True,CZ,2017-12-24
+24773,Finland,Jouluaatto,True,FI,2017-12-24
+24775,Sweden,"Julafton, Söndag",True,SE,2017-12-24
+24776,Argentina,Navidad [Christmas],True,AR,2017-12-25
+24777,Australia,Christmas Day,True,AU,2017-12-25
+24778,Austria,Christtag,True,AT,2017-12-25
+24779,Belarus,Рождество Христово (католическое Рождество),True,BY,2017-12-25
+24780,Belgium,Kerstmis,True,BE,2017-12-25
+24781,Brazil,Natal,True,BR,2017-12-25
+24782,Canada,Christmas Day,True,CA,2017-12-25
+24783,Colombia,Navidad [Christmas],True,CO,2017-12-25
+24784,Croatia,Božić,True,HR,2017-12-25
+24785,Czech,1. svátek vánoční,True,CZ,2017-12-25
+24786,Denmark,Juledag,True,DK,2017-12-25
+24787,England,Christmas Day,True,UK,2017-12-25
+24788,Finland,Joulupäivä,True,FI,2017-12-25
+24789,France,Noël,True,FR,2017-12-25
+24790,Germany,Erster Weihnachtstag,True,DE,2017-12-25
+24791,Hungary,Karácsony,True,HU,2017-12-25
+24792,India,Christmas,False,IN,2017-12-25
+24793,Ireland,Christmas Day,True,IE,2017-12-25
+24794,Isle of Man,Christmas Day,True,IM,2017-12-25
+24795,Italy,Natale,True,IT,2017-12-25
+24796,Mexico,Navidad [Christmas],True,MX,2017-12-25
+24797,Netherlands,Eerste Kerstdag,True,NL,2017-12-25
+24798,New Zealand,Christmas Day,True,NZ,2017-12-25
+24799,Northern Ireland,Christmas Day,True,UK,2017-12-25
+24800,Norway,Første juledag,True,NO,2017-12-25
+24801,Poland,Boże Narodzenie (pierwszy dzień),True,PL,2017-12-25
+24802,Portugal,Dia de Natal,True,PT,2017-12-25
+24803,Scotland,Christmas Day,True,UK,2017-12-25
+24804,Slovenia,Božič,True,SI,2017-12-25
+24805,South Africa,Christmas Day,True,ZA,2017-12-25
+24806,Spain,Navidad,True,ES,2017-12-25
+24807,Sweden,Juldagen,True,SE,2017-12-25
+24808,Switzerland,Weihnachten,True,CH,2017-12-25
+24809,Ukraine,Різдво Христове (католицьке),True,UA,2017-12-25
+24810,United Kingdom,Christmas Day,True,GB,2017-12-25
+24811,United States,Christmas Day,True,US,2017-12-25
+24812,Wales,Christmas Day,True,UK,2017-12-25
+24813,Australia,Boxing Day,True,AU,2017-12-26
+24814,Austria,Stefanitag,True,AT,2017-12-26
+24815,Canada,Boxing Day,True,CA,2017-12-26
+24816,Croatia,Sveti Stjepan,True,HR,2017-12-26
+24817,Czech,2. svátek vánoční,True,CZ,2017-12-26
+24818,Denmark,Anden juledag,True,DK,2017-12-26
+24819,England,Boxing Day,True,UK,2017-12-26
+24820,Finland,Tapaninpäivä,True,FI,2017-12-26
+24821,Germany,Zweiter Weihnachtstag,True,DE,2017-12-26
+24822,Hungary,Karácsony másnapja,True,HU,2017-12-26
+24823,Ireland,Boxing Day,True,IE,2017-12-26
+24824,Isle of Man,Boxing Day,True,IM,2017-12-26
+24825,Italy,Santo Stefano,True,IT,2017-12-26
+24826,Netherlands,Tweede Kerstdag,True,NL,2017-12-26
+24827,New Zealand,Boxing Day,True,NZ,2017-12-26
+24828,Northern Ireland,Boxing Day,True,UK,2017-12-26
+24829,Norway,Andre juledag,True,NO,2017-12-26
+24830,Poland,Boże Narodzenie (drugi dzień),True,PL,2017-12-26
+24831,Scotland,Boxing Day,True,UK,2017-12-26
+24832,Slovenia,dan samostojnosti in enotnosti,True,SI,2017-12-26
+24833,South Africa,Day of Goodwill,True,ZA,2017-12-26
+24834,Sweden,Annandag jul,True,SE,2017-12-26
+24835,United Kingdom,Boxing Day,True,GB,2017-12-26
+24836,Wales,Boxing Day,True,UK,2017-12-26
+24838,Sweden,"Nyårsafton, Söndag",True,SE,2017-12-31
+24839,Argentina,Año Nuevo [New Year's Day],True,AR,2018-01-01
+24840,Australia,New Year's Day,True,AU,2018-01-01
+24841,Austria,Neujahr,True,AT,2018-01-01
+24842,Belarus,Новый год,True,BY,2018-01-01
+24843,Belgium,Nieuwjaarsdag,True,BE,2018-01-01
+24844,Brazil,Ano novo,True,BR,2018-01-01
+24845,Canada,New Year's Day,True,CA,2018-01-01
+24846,Colombia,Año Nuevo [New Year's Day],True,CO,2018-01-01
+24847,Croatia,Nova Godina,True,HR,2018-01-01
+24848,Czech,Den obnovy samostatného českého státu,True,CZ,2018-01-01
+24849,Denmark,Nytårsdag,True,DK,2018-01-01
+24850,England,New Year's Day,True,UK,2018-01-01
+24851,Finland,Uudenvuodenpäivä,True,FI,2018-01-01
+24852,France,Jour de l'an,True,FR,2018-01-01
+24853,Germany,Neujahr,True,DE,2018-01-01
+24854,Hungary,Újév,True,HU,2018-01-01
+24855,Ireland,New Year's Day,True,IE,2018-01-01
+24856,Isle of Man,New Year's Day,True,IM,2018-01-01
+24857,Italy,Capodanno,True,IT,2018-01-01
+24858,Japan,元日,True,JP,2018-01-01
+24859,Mexico,Año Nuevo [New Year's Day],True,MX,2018-01-01
+24860,Netherlands,Nieuwjaarsdag,True,NL,2018-01-01
+24861,New Zealand,New Year's Day,True,NZ,2018-01-01
+24862,Northern Ireland,New Year's Day,True,UK,2018-01-01
+24863,Norway,Første nyttårsdag,True,NO,2018-01-01
+24864,Poland,Nowy Rok,True,PL,2018-01-01
+24865,Portugal,Ano Novo,True,PT,2018-01-01
+24866,Scotland,New Year's Day,True,UK,2018-01-01
+24867,Slovenia,novo leto,True,SI,2018-01-01
+24868,South Africa,New Year's Day,True,ZA,2018-01-01
+24869,Spain,Año nuevo,True,ES,2018-01-01
+24870,Sweden,Nyårsdagen,True,SE,2018-01-01
+24871,Switzerland,Neujahrestag,True,CH,2018-01-01
+24872,Ukraine,Новий рік,True,UA,2018-01-01
+24873,United Kingdom,New Year's Day,True,GB,2018-01-01
+24874,United States,New Year's Day,True,US,2018-01-01
+24875,Wales,New Year's Day,True,UK,2018-01-01
+24876,New Zealand,Day after New Year's Day,True,NZ,2018-01-02
+24877,Scotland,New Year Holiday,True,UK,2018-01-02
+24878,Slovenia,novo leto,True,SI,2018-01-02
+24879,United Kingdom,New Year Holiday,True,GB,2018-01-02
+24880,Austria,Heilige Drei Könige,True,AT,2018-01-06
+24881,Croatia,Sveta tri kralja,True,HR,2018-01-06
+24882,Finland,Loppiainen,True,FI,2018-01-06
+24883,Italy,Epifania del Signore,True,IT,2018-01-06
+24884,Poland,Święto Trzech Króli,True,PL,2018-01-06
+24885,Spain,Epifanía del Señor,True,ES,2018-01-06
+24886,Sweden,Trettondedag jul,True,SE,2018-01-06
+24887,Belarus,Рождество Христово (православное Рождество),True,BY,2018-01-07
+24890,Ukraine,Різдво Христове (православне),True,UA,2018-01-07
+24891,Colombia,Día de los Reyes Magos [Epiphany],True,CO,2018-01-08
+24892,Japan,成人の日,True,JP,2018-01-08
+24893,India,Makar Sankranti / Pongal,False,IN,2018-01-14
+24896,United States,Martin Luther King Jr. Day,True,US,2018-01-15
+24899,Australia,Australia Day,True,AU,2018-01-26
+24900,India,Republic Day,True,IN,2018-01-26
+24905,Mexico,Día de la Constitución [Constitution Day],True,MX,2018-02-05
+24906,New Zealand,Waitangi Day,True,NZ,2018-02-06
+24907,Slovenia,Prešernov dan,True,SI,2018-02-08
+24908,Japan,建国記念の日,True,JP,2018-02-11
+24911,Argentina,Día de Carnaval [Carnival's Day],True,AR,2018-02-12
+24912,Japan,振替休日,True,JP,2018-02-12
+24913,Argentina,Día de Carnaval [Carnival's Day],True,AR,2018-02-13
+24914,Brazil,Carnaval,True,BR,2018-02-13
+24915,Brazil,Quarta-feira de cinzas (Início da Quaresma),True,BR,2018-02-14
+24918,Canada,Family Day,True,CA,2018-02-19
+24919,United States,Washington's Birthday,True,US,2018-02-19
+24924,Belarus,День женщин,True,BY,2018-03-08
+24925,Ukraine,Міжнародний жіночий день,True,UA,2018-03-08
+24928,Hungary,Nemzeti ünnep,True,HU,2018-03-15
+24929,Hungary,Nemzeti ünnep utáni pihenőnap,True,HU,2018-03-16
+24930,Ireland,St. Patrick's Day,True,IE,2018-03-17
+24931,Northern Ireland,St. Patrick's Day,True,UK,2018-03-17
+24932,United Kingdom,St. Patrick's Day,False,GB,2018-03-17
+24935,Colombia,Día de San José [Saint Joseph's Day],True,CO,2018-03-19
+24936,Ireland,St. Patrick's Day,True,IE,2018-03-19
+24937,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2018-03-19
+24938,Northern Ireland,St. Patrick's Day,True,UK,2018-03-19
+24939,United Kingdom,St. Patrick's Day,False,GB,2018-03-19
+24940,Japan,春分の日,True,JP,2018-03-21
+24941,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2018-03-21
+24942,South Africa,Human Rights Day,True,ZA,2018-03-21
+24943,Argentina,Día Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],True,AR,2018-03-24
+24944,Denmark,Palmesøndag,True,DK,2018-03-25
+24947,Argentina,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],True,AR,2018-03-29
+24948,Colombia,Jueves Santo [Maundy Thursday],True,CO,2018-03-29
+24949,Denmark,Skærtorsdag,True,DK,2018-03-29
+24950,Norway,Skjærtorsdag,True,NO,2018-03-29
+24951,Argentina,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],True,AR,2018-03-30
+24952,Australia,Good Friday,True,AU,2018-03-30
+24953,Brazil,Sexta-feira Santa,True,BR,2018-03-30
+24954,Canada,Good Friday,True,CA,2018-03-30
+24955,Colombia,Viernes Santo [Good Friday],True,CO,2018-03-30
+24956,Czech,Velký pátek,True,CZ,2018-03-30
+24957,Denmark,Langfredag,True,DK,2018-03-30
+24958,England,Good Friday,True,UK,2018-03-30
+24959,Finland,Pitkäperjantai,True,FI,2018-03-30
+24960,Germany,Karfreitag,True,DE,2018-03-30
+24961,Hungary,Nagypéntek,True,HU,2018-03-30
+24962,Isle of Man,Good Friday,True,IM,2018-03-30
+24963,Netherlands,Goede Vrijdag,True,NL,2018-03-30
+24964,New Zealand,Good Friday,True,NZ,2018-03-30
+24965,Northern Ireland,Good Friday,True,UK,2018-03-30
+24966,Norway,Langfredag,True,NO,2018-03-30
+24967,Portugal,Sexta-feira Santa,True,PT,2018-03-30
+24968,Scotland,Good Friday,True,UK,2018-03-30
+24969,South Africa,Good Friday,True,ZA,2018-03-30
+24970,Sweden,Långfredagen,True,SE,2018-03-30
+24971,Switzerland,Karfreitag,True,CH,2018-03-30
+24972,United Kingdom,Good Friday,True,GB,2018-03-30
+24973,Wales,Good Friday,True,UK,2018-03-30
+24974,Argentina,Día de Pascuas [Easter Day],True,AR,2018-04-01
+24975,Belgium,Pasen,True,BE,2018-04-01
+24976,Brazil,Páscoa,True,BR,2018-04-01
+24977,Croatia,Uskrs,True,HR,2018-04-01
+24978,Denmark,Påskedag,True,DK,2018-04-01
+24979,Finland,Pääsiäispäivä,True,FI,2018-04-01
+24980,Hungary,Húsvét,True,HU,2018-04-01
+24981,Italy,Pasqua di Resurrezione,True,IT,2018-04-01
+24982,Netherlands,Eerste paasdag,True,NL,2018-04-01
+24983,Norway,"Første påskedag, Søndag",True,NO,2018-04-01
+24984,Poland,Niedziela Wielkanocna,True,PL,2018-04-01
+24985,Portugal,Páscoa,True,PT,2018-04-01
+24986,Sweden,"Påskdagen, Söndag",True,SE,2018-04-01
+24987,Switzerland,Ostern,True,CH,2018-04-01
+24988,Argentina,Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],True,AR,2018-04-02
+24989,Australia,Easter Monday,True,AU,2018-04-02
+24990,Austria,Ostermontag,True,AT,2018-04-02
+24991,Belgium,Paasmaandag,True,BE,2018-04-02
+24992,Croatia,Uskrsni ponedjeljak,True,HR,2018-04-02
+24993,Czech,Velikonoční pondělí,True,CZ,2018-04-02
+24994,Denmark,Anden påskedag,True,DK,2018-04-02
+24995,England,Easter Monday,True,UK,2018-04-02
+24996,Finland,2. pääsiäispäivä,True,FI,2018-04-02
+24997,France,Lundi de Pâques,True,FR,2018-04-02
+24998,Germany,Ostermontag,True,DE,2018-04-02
+24999,Hungary,Húsvét Hétfő,True,HU,2018-04-02
+25000,Ireland,Easter Monday,True,IE,2018-04-02
+25001,Isle of Man,Easter Monday,True,IM,2018-04-02
+25002,Italy,Lunedì dell'Angelo,True,IT,2018-04-02
+25003,Netherlands,Tweede paasdag,True,NL,2018-04-02
+25004,New Zealand,Easter Monday,True,NZ,2018-04-02
+25005,Northern Ireland,Easter Monday,True,UK,2018-04-02
+25006,Norway,Andre påskedag,True,NO,2018-04-02
+25007,Poland,Poniedziałek Wielkanocny,True,PL,2018-04-02
+25008,Slovenia,Velikonočni ponedeljek,True,SI,2018-04-02
+25009,South Africa,Family Day,True,ZA,2018-04-02
+25010,Sweden,Annandag påsk,True,SE,2018-04-02
+25011,Switzerland,Ostermontag,True,CH,2018-04-02
+25012,United Kingdom,Easter Monday,True,GB,2018-04-02
+25013,Wales,Easter Monday,True,UK,2018-04-02
+25016,Ukraine,Пасха (Великдень),True,UA,2018-04-08
+25019,Belarus,Радуница,True,BY,2018-04-17
+25020,Brazil,Tiradentes,True,BR,2018-04-21
+25023,Australia,Anzac Day,True,AU,2018-04-25
+25024,Italy,Festa della Liberazione,True,IT,2018-04-25
+25025,New Zealand,Anzac Day,True,NZ,2018-04-25
+25026,Portugal,Dia da Liberdade,True,PT,2018-04-25
+25027,Denmark,Store bededag,True,DK,2018-04-27
+25028,Netherlands,Koningsdag,True,NL,2018-04-27
+25029,Slovenia,dan upora proti okupatorju,True,SI,2018-04-27
+25030,South Africa,Freedom Day,True,ZA,2018-04-27
+25031,Japan,昭和の日,True,JP,2018-04-29
+25034,Hungary,A Munka ünnepe előtti pihenőnap,True,HU,2018-04-30
+25035,Japan,振替休日,True,JP,2018-04-30
+25036,Argentina,Día del Trabajo [Labour Day],True,AR,2018-05-01
+25037,Austria,Staatsfeiertag,True,AT,2018-05-01
+25038,Belarus,Праздник труда,True,BY,2018-05-01
+25039,Belgium,Dag van de Arbeid,True,BE,2018-05-01
+25040,Brazil,Dia Mundial do Trabalho,True,BR,2018-05-01
+25041,Colombia,Día del Trabajo [Labour Day],True,CO,2018-05-01
+25042,Croatia,Međunarodni praznik rada,True,HR,2018-05-01
+25043,Czech,Svátek práce,True,CZ,2018-05-01
+25044,Finland,Vappu,True,FI,2018-05-01
+25045,France,Fête du Travail,True,FR,2018-05-01
+25046,Germany,Erster Mai,True,DE,2018-05-01
+25047,Hungary,A Munka ünnepe,True,HU,2018-05-01
+25048,India,Labour Day,False,IN,2018-05-01
+25049,Italy,Festa dei Lavoratori,True,IT,2018-05-01
+25050,Mexico,Día del Trabajo [Labour Day],True,MX,2018-05-01
+25051,Norway,Arbeidernes dag,True,NO,2018-05-01
+25052,Poland,Święto Państwowe,True,PL,2018-05-01
+25053,Portugal,Dia do Trabalhador,True,PT,2018-05-01
+25054,Slovenia,praznik dela,True,SI,2018-05-01
+25055,South Africa,Workers' Day,True,ZA,2018-05-01
+25056,Spain,Día del Trabajador,True,ES,2018-05-01
+25057,Sweden,Första maj,True,SE,2018-05-01
+25058,Ukraine,День праці,True,UA,2018-05-01
+25059,Slovenia,praznik dela,True,SI,2018-05-02
+25060,Japan,憲法記念日,True,JP,2018-05-03
+25061,Poland,Święto Narodowe Trzeciego Maja,True,PL,2018-05-03
+25062,Japan,みどりの日,True,JP,2018-05-04
+25063,Japan,こどもの日,True,JP,2018-05-05
+25066,England,May Day,True,UK,2018-05-07
+25067,Ireland,May Day,True,IE,2018-05-07
+25068,Isle of Man,May Day,True,IM,2018-05-07
+25069,Northern Ireland,May Day,True,UK,2018-05-07
+25070,Scotland,May Day,True,UK,2018-05-07
+25071,United Kingdom,May Day,True,GB,2018-05-07
+25072,Wales,May Day,True,UK,2018-05-07
+25073,Czech,Den vítězství,True,CZ,2018-05-08
+25074,France,Armistice 1945,True,FR,2018-05-08
+25075,Belarus,День Победы,True,BY,2018-05-09
+25076,Ukraine,День перемоги,True,UA,2018-05-09
+25077,Austria,Christi Himmelfahrt,True,AT,2018-05-10
+25078,Belgium,O.L.H. Hemelvaart,True,BE,2018-05-10
+25079,Denmark,Kristi himmelfartsdag,True,DK,2018-05-10
+25080,Finland,Helatorstai,True,FI,2018-05-10
+25081,France,Ascension,True,FR,2018-05-10
+25082,Germany,Christi Himmelfahrt,True,DE,2018-05-10
+25083,Netherlands,Hemelvaart,True,NL,2018-05-10
+25084,Norway,Kristi himmelfartsdag,True,NO,2018-05-10
+25085,Sweden,Kristi himmelsfärdsdag,True,SE,2018-05-10
+25086,Switzerland,Auffahrt,True,CH,2018-05-10
+25089,Colombia,Ascensión del señor [Ascension of Jesus],True,CO,2018-05-14
+25090,Norway,Grunnlovsdag,True,NO,2018-05-17
+25091,Belgium,Pinksteren,True,BE,2018-05-20
+25092,Denmark,Pinsedag,True,DK,2018-05-20
+25093,Finland,Helluntaipäivä,True,FI,2018-05-20
+25094,Hungary,Pünkösd,True,HU,2018-05-20
+25095,Netherlands,Eerste Pinksterdag,True,NL,2018-05-20
+25096,Norway,"Første pinsedag, Søndag",True,NO,2018-05-20
+25097,Poland,Zielone Świątki,True,PL,2018-05-20
+25098,Sweden,"Pingstdagen, Söndag",True,SE,2018-05-20
+25099,Switzerland,Pfingsten,True,CH,2018-05-20
+25100,Austria,Pfingstmontag,True,AT,2018-05-21
+25101,Belgium,Pinkstermaandag,True,BE,2018-05-21
+25102,Canada,Victoria Day,True,CA,2018-05-21
+25103,Denmark,Anden pinsedag,True,DK,2018-05-21
+25104,France,Lundi de Pentecôte,True,FR,2018-05-21
+25105,Germany,Pfingstmontag,True,DE,2018-05-21
+25106,Hungary,Pünkösdhétfő,True,HU,2018-05-21
+25107,Netherlands,Tweede Pinksterdag,True,NL,2018-05-21
+25108,Norway,Andre pinsedag,True,NO,2018-05-21
+25109,Switzerland,Pfingstmontag,True,CH,2018-05-21
+25110,Argentina,Día de la Revolucion de Mayo [May Revolution Day],True,AR,2018-05-25
+25113,Ukraine,Трійця,True,UA,2018-05-27
+25114,England,Spring Bank Holiday,True,UK,2018-05-28
+25115,Isle of Man,Spring Bank Holiday,True,IM,2018-05-28
+25116,Northern Ireland,Spring Bank Holiday,True,UK,2018-05-28
+25117,Scotland,Spring Bank Holiday,True,UK,2018-05-28
+25118,United Kingdom,Spring Bank Holiday,True,GB,2018-05-28
+25119,United States,Memorial Day,True,US,2018-05-28
+25120,Wales,Spring Bank Holiday,True,UK,2018-05-28
+25121,Austria,Fronleichnam,True,AT,2018-05-31
+25122,Brazil,Corpus Christi,True,BR,2018-05-31
+25123,Croatia,Tijelovo,True,HR,2018-05-31
+25124,Poland,Dzień Bożego Ciała,True,PL,2018-05-31
+25125,Portugal,Corpo de Deus,True,PT,2018-05-31
+25126,Isle of Man,TT Bank Holiday,True,IM,2018-06-01
+25127,Italy,Festa della Repubblica,True,IT,2018-06-02
+25130,Colombia,Corpus Christi [Corpus Christi],True,CO,2018-06-04
+25131,Ireland,June Bank Holiday,True,IE,2018-06-04
+25132,New Zealand,Queen's Birthday,True,NZ,2018-06-04
+25133,Sweden,Sveriges nationaldag,True,SE,2018-06-06
+25135,Portugal,Dia de Portugal,True,PT,2018-06-10
+25137,Colombia,Sagrado Corazón [Sacred Heart],True,CO,2018-06-11
+25138,South Africa,Youth Day,True,ZA,2018-06-16
+25139,Argentina,Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],True,AR,2018-06-17
+25142,Argentina,Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],True,AR,2018-06-20
+25143,Croatia,Dan antifašističke borbe,True,HR,2018-06-22
+25144,Finland,Juhannusaatto,True,FI,2018-06-22
+25145,Sweden,Midsommarafton,True,SE,2018-06-22
+25146,Finland,Juhannuspäivä,True,FI,2018-06-23
+25147,Sweden,Midsommardagen,True,SE,2018-06-23
+25150,Croatia,Dan državnosti,True,HR,2018-06-25
+25151,Slovenia,dan državnosti,True,SI,2018-06-25
+25152,Ukraine,День Конституції України,True,UA,2018-06-28
+25153,Canada,Canada Day,True,CA,2018-07-01
+25156,Canada,Canada Day,True,CA,2018-07-02
+25157,Colombia,San Pedro y San Pablo [Saint Peter and Saint Paul],True,CO,2018-07-02
+25158,Belarus,День Независимости Республики Беларусь (День Республики),True,BY,2018-07-03
+25159,United States,Independence Day,True,US,2018-07-04
+25160,Czech,Den slovanských věrozvěstů Cyrila a Metoděje,True,CZ,2018-07-05
+25161,Isle of Man,Tynwald Day,True,IM,2018-07-05
+25162,Czech,Den upálení mistra Jana Husa,True,CZ,2018-07-06
+25165,Argentina,Día de la Independencia [Independence Day],True,AR,2018-07-09
+25166,Northern Ireland,Battle of the Boyne,True,UK,2018-07-12
+25167,United Kingdom,Battle of the Boyne,False,GB,2018-07-12
+25168,France,Fête nationale,True,FR,2018-07-14
+25171,Japan,海の日,True,JP,2018-07-16
+25172,Colombia,Día de la Independencia [Independence Day],True,CO,2018-07-20
+25173,Belgium,Nationale feestdag,True,BE,2018-07-21
+25178,Switzerland,Nationalfeiertag,True,CH,2018-08-01
+25179,Croatia,Dan pobjede i domovinske zahvalnosti,True,HR,2018-08-05
+25182,Canada,Civic Holiday,True,CA,2018-08-06
+25183,Ireland,Summer Bank Holiday,True,IE,2018-08-06
+25184,Scotland,Summer Bank Holiday,True,UK,2018-08-06
+25185,United Kingdom,Summer Bank Holiday,False,GB,2018-08-06
+25186,Colombia,Batalla de Boyacá [Battle of Boyacá],True,CO,2018-08-07
+25187,South Africa,National Women's Day,True,ZA,2018-08-09
+25188,Japan,山の日,True,JP,2018-08-11
+25191,Austria,Mariä Himmelfahrt,True,AT,2018-08-15
+25192,Belgium,O.L.V. Hemelvaart,True,BE,2018-08-15
+25193,Croatia,Velika Gospa,True,HR,2018-08-15
+25194,France,Assomption,True,FR,2018-08-15
+25195,India,Independence Day,True,IN,2018-08-15
+25196,Italy,Assunzione della Vergine,True,IT,2018-08-15
+25197,Poland,Wniebowzięcie Najświętszej Marii Panny,True,PL,2018-08-15
+25198,Portugal,Assunção de Nossa Senhora,True,PT,2018-08-15
+25199,Slovenia,Marijino vnebovzetje,True,SI,2018-08-15
+25200,Spain,Asunción de la Virgen,True,ES,2018-08-15
+25201,Argentina,Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],True,AR,2018-08-17
+25204,Colombia,La Asunción [Assumption of Mary],True,CO,2018-08-20
+25205,Hungary,Az államalapítás ünnepe,True,HU,2018-08-20
+25206,Ukraine,День незалежності України,True,UA,2018-08-24
+25209,England,Late Summer Bank Holiday,True,UK,2018-08-27
+25210,Isle of Man,Late Summer Bank Holiday,True,IM,2018-08-27
+25211,Northern Ireland,Late Summer Bank Holiday,True,UK,2018-08-27
+25212,United Kingdom,Late Summer Bank Holiday,True,GB,2018-08-27
+25213,Wales,Late Summer Bank Holiday,True,UK,2018-08-27
+25216,Canada,Labour Day,True,CA,2018-09-03
+25217,United States,Labor Day,True,US,2018-09-03
+25218,Brazil,Independência do Brasil,True,BR,2018-09-07
+25221,Mexico,Día de la Independencia [Independence Day],True,MX,2018-09-16
+25224,Japan,敬老の日,True,JP,2018-09-17
+25225,Mexico,Día de la Independencia [Independence Day],True,MX,2018-09-17
+25226,Japan,秋分の日,True,JP,2018-09-23
+25229,Japan,振替休日,True,JP,2018-09-24
+25230,South Africa,Heritage Day,True,ZA,2018-09-24
+25231,Czech,Den české státnosti,True,CZ,2018-09-28
+25234,India,Gandhi Jayanti,True,IN,2018-10-02
+25235,Germany,Tag der Deutschen Einheit,True,DE,2018-10-03
+25236,Portugal,Implantação da República,True,PT,2018-10-05
+25239,Canada,Thanksgiving,True,CA,2018-10-08
+25240,Croatia,Dan neovisnosti,True,HR,2018-10-08
+25241,Japan,体育の日,True,JP,2018-10-08
+25242,United States,Columbus Day,False,US,2018-10-08
+25243,Argentina,Día del Respeto a la Diversidad Cultural [Respect for Cultural Diversity Day],True,AR,2018-10-12
+25244,Brazil,Nossa Senhora Aparecida,True,BR,2018-10-12
+25245,Spain,Día de la Hispanidad,True,ES,2018-10-12
+25248,Ukraine,День захисника України,True,UA,2018-10-14
+25249,Colombia,Descubrimiento de América [Discovery of America],True,CO,2018-10-15
+25252,Hungary,Nemzeti ünnep előtti pihenőnap,True,HU,2018-10-22
+25253,New Zealand,Labour Day,True,NZ,2018-10-22
+25254,Hungary,Nemzeti ünnep,True,HU,2018-10-23
+25255,Austria,Nationalfeiertag,True,AT,2018-10-26
+25256,Czech,Den vzniku samostatného československého státu,True,CZ,2018-10-28
+25259,Ireland,October Bank Holiday,True,IE,2018-10-29
+25260,Slovenia,dan reformacije,True,SI,2018-10-31
+25261,Austria,Allerheiligen,True,AT,2018-11-01
+25262,Belgium,Allerheiligen,True,BE,2018-11-01
+25263,Croatia,Svi sveti,True,HR,2018-11-01
+25264,France,Toussaint,True,FR,2018-11-01
+25265,Hungary,Mindenszentek,True,HU,2018-11-01
+25266,Italy,Tutti i Santi,True,IT,2018-11-01
+25267,Poland,Uroczystość Wszystkich świętych,True,PL,2018-11-01
+25268,Portugal,Dia de Todos os Santos,True,PT,2018-11-01
+25269,Slovenia,dan spomina na mrtve,True,SI,2018-11-01
+25270,Spain,Todos los Santos,True,ES,2018-11-01
+25271,Brazil,Finados,True,BR,2018-11-02
+25272,Hungary,Mindenszentek utáni pihenőnap,True,HU,2018-11-02
+25273,Finland,Pyhäinpäivä,True,FI,2018-11-03
+25274,Japan,文化の日,True,JP,2018-11-03
+25275,Sweden,Alla helgons dag,True,SE,2018-11-03
+25278,Colombia,Dia de Todos los Santos [All Saint's Day],True,CO,2018-11-05
+25279,Belarus,День Октябрьской революции,True,BY,2018-11-07
+25280,Belgium,Wapenstilstand,True,BE,2018-11-11
+25281,France,Armistice 1918,True,FR,2018-11-11
+25283,Poland,Narodowe Święto Niepodległości,True,PL,2018-11-11
+25285,United States,Veterans Day,False,US,2018-11-11
+25286,Colombia,Independencia de Cartagena [Independence of Cartagena],True,CO,2018-11-12
+25287,United States,Veterans Day,False,US,2018-11-12
+25288,Brazil,Proclamação da República,True,BR,2018-11-15
+25289,Czech,Den boje za svobodu a demokracii,True,CZ,2018-11-17
+25292,Mexico,Día de la Revolución [Revolution Day],True,MX,2018-11-19
+25293,Argentina,Día Nacional de la Soberanía [National Sovereignty Day],True,AR,2018-11-20
+25294,Mexico,Día de la Revolución [Revolution Day],True,MX,2018-11-20
+25295,United States,Thanksgiving,True,US,2018-11-22
+25296,Japan,勤労感謝の日,True,JP,2018-11-23
+25299,Mexico,Transmisión del Poder Ejecutivo Federal [Change of Federal Government],True,MX,2018-11-30
+25300,Scotland,St. Andrew's Day,True,UK,2018-11-30
+25301,United Kingdom,St. Andrew's Day,False,GB,2018-11-30
+25302,Mexico,Transmisión del Poder Ejecutivo Federal [Change of Federal Government],True,MX,2018-12-01
+25303,Portugal,Restauração da Independência,True,PT,2018-12-01
+25306,Finland,Itsenäisyyspäivä,True,FI,2018-12-06
+25307,Spain,Día de la constitución Española,True,ES,2018-12-06
+25308,Argentina,La Inmaculada Concepción [Immaculate Conception],True,AR,2018-12-08
+25309,Austria,Mariä Empfängnis,True,AT,2018-12-08
+25310,Italy,Immacolata Concezione,True,IT,2018-12-08
+25311,Portugal,Imaculada Conceição,True,PT,2018-12-08
+25312,Spain,La Inmaculada Concepción,True,ES,2018-12-08
+25316,South Africa,Day of Reconciliation,True,ZA,2018-12-16
+25318,South Africa,Day of Reconciliation,True,ZA,2018-12-17
+25319,Japan,天皇誕生日,True,JP,2018-12-23
+25322,Czech,Štědrý den,True,CZ,2018-12-24
+25323,Finland,Jouluaatto,True,FI,2018-12-24
+25324,Hungary,Szenteste,True,HU,2018-12-24
+25325,Japan,振替休日,True,JP,2018-12-24
+25326,Sweden,Julafton,True,SE,2018-12-24
+25327,Argentina,Navidad [Christmas],True,AR,2018-12-25
+25328,Australia,Christmas Day,True,AU,2018-12-25
+25329,Austria,Christtag,True,AT,2018-12-25
+25330,Belarus,Рождество Христово (католическое Рождество),True,BY,2018-12-25
+25331,Belgium,Kerstmis,True,BE,2018-12-25
+25332,Brazil,Natal,True,BR,2018-12-25
+25333,Canada,Christmas Day,True,CA,2018-12-25
+25334,Colombia,Navidad [Christmas],True,CO,2018-12-25
+25335,Croatia,Božić,True,HR,2018-12-25
+25336,Czech,1. svátek vánoční,True,CZ,2018-12-25
+25337,Denmark,Juledag,True,DK,2018-12-25
+25338,England,Christmas Day,True,UK,2018-12-25
+25339,Finland,Joulupäivä,True,FI,2018-12-25
+25340,France,Noël,True,FR,2018-12-25
+25341,Germany,Erster Weihnachtstag,True,DE,2018-12-25
+25342,Hungary,Karácsony,True,HU,2018-12-25
+25343,India,Christmas,False,IN,2018-12-25
+25344,Ireland,Christmas Day,True,IE,2018-12-25
+25345,Isle of Man,Christmas Day,True,IM,2018-12-25
+25346,Italy,Natale,True,IT,2018-12-25
+25347,Mexico,Navidad [Christmas],True,MX,2018-12-25
+25348,Netherlands,Eerste Kerstdag,True,NL,2018-12-25
+25349,New Zealand,Christmas Day,True,NZ,2018-12-25
+25350,Northern Ireland,Christmas Day,True,UK,2018-12-25
+25351,Norway,Første juledag,True,NO,2018-12-25
+25352,Poland,Boże Narodzenie (pierwszy dzień),True,PL,2018-12-25
+25353,Portugal,Dia de Natal,True,PT,2018-12-25
+25354,Scotland,Christmas Day,True,UK,2018-12-25
+25355,Slovenia,Božič,True,SI,2018-12-25
+25356,South Africa,Christmas Day,True,ZA,2018-12-25
+25357,Spain,Navidad,True,ES,2018-12-25
+25358,Sweden,Juldagen,True,SE,2018-12-25
+25359,Switzerland,Weihnachten,True,CH,2018-12-25
+25360,Ukraine,Різдво Христове (католицьке),True,UA,2018-12-25
+25361,United Kingdom,Christmas Day,True,GB,2018-12-25
+25362,United States,Christmas Day,True,US,2018-12-25
+25363,Wales,Christmas Day,True,UK,2018-12-25
+25364,Australia,Boxing Day,True,AU,2018-12-26
+25365,Austria,Stefanitag,True,AT,2018-12-26
+25366,Canada,Boxing Day,True,CA,2018-12-26
+25367,Croatia,Sveti Stjepan,True,HR,2018-12-26
+25368,Czech,2. svátek vánoční,True,CZ,2018-12-26
+25369,Denmark,Anden juledag,True,DK,2018-12-26
+25370,England,Boxing Day,True,UK,2018-12-26
+25371,Finland,Tapaninpäivä,True,FI,2018-12-26
+25372,Germany,Zweiter Weihnachtstag,True,DE,2018-12-26
+25373,Hungary,Karácsony másnapja,True,HU,2018-12-26
+25374,Ireland,Boxing Day,True,IE,2018-12-26
+25375,Isle of Man,Boxing Day,True,IM,2018-12-26
+25376,Italy,Santo Stefano,True,IT,2018-12-26
+25377,Netherlands,Tweede Kerstdag,True,NL,2018-12-26
+25378,New Zealand,Boxing Day,True,NZ,2018-12-26
+25379,Northern Ireland,Boxing Day,True,UK,2018-12-26
+25380,Norway,Andre juledag,True,NO,2018-12-26
+25381,Poland,Boże Narodzenie (drugi dzień),True,PL,2018-12-26
+25382,Scotland,Boxing Day,True,UK,2018-12-26
+25383,Slovenia,dan samostojnosti in enotnosti,True,SI,2018-12-26
+25384,South Africa,Day of Goodwill,True,ZA,2018-12-26
+25385,Sweden,Annandag jul,True,SE,2018-12-26
+25386,United Kingdom,Boxing Day,True,GB,2018-12-26
+25387,Wales,Boxing Day,True,UK,2018-12-26
+25390,Hungary,Szilveszter,True,HU,2018-12-31
+25391,Sweden,Nyårsafton,True,SE,2018-12-31
+25392,Argentina,Año Nuevo [New Year's Day],True,AR,2019-01-01
+25393,Australia,New Year's Day,True,AU,2019-01-01
+25394,Austria,Neujahr,True,AT,2019-01-01
+25395,Belarus,Новый год,True,BY,2019-01-01
+25396,Belgium,Nieuwjaarsdag,True,BE,2019-01-01
+25397,Brazil,Ano novo,True,BR,2019-01-01
+25398,Canada,New Year's Day,True,CA,2019-01-01
+25399,Colombia,Año Nuevo [New Year's Day],True,CO,2019-01-01
+25400,Croatia,Nova Godina,True,HR,2019-01-01
+25401,Czech,Den obnovy samostatného českého státu,True,CZ,2019-01-01
+25402,Denmark,Nytårsdag,True,DK,2019-01-01
+25403,England,New Year's Day,True,UK,2019-01-01
+25404,Finland,Uudenvuodenpäivä,True,FI,2019-01-01
+25405,France,Jour de l'an,True,FR,2019-01-01
+25406,Germany,Neujahr,True,DE,2019-01-01
+25407,Hungary,Újév,True,HU,2019-01-01
+25408,Ireland,New Year's Day,True,IE,2019-01-01
+25409,Isle of Man,New Year's Day,True,IM,2019-01-01
+25410,Italy,Capodanno,True,IT,2019-01-01
+25411,Japan,元日,True,JP,2019-01-01
+25412,Mexico,Año Nuevo [New Year's Day],True,MX,2019-01-01
+25413,Netherlands,Nieuwjaarsdag,True,NL,2019-01-01
+25414,New Zealand,New Year's Day,True,NZ,2019-01-01
+25415,Northern Ireland,New Year's Day,True,UK,2019-01-01
+25416,Norway,Første nyttårsdag,True,NO,2019-01-01
+25417,Poland,Nowy Rok,True,PL,2019-01-01
+25418,Portugal,Ano Novo,True,PT,2019-01-01
+25419,Scotland,New Year's Day,True,UK,2019-01-01
+25420,Slovenia,novo leto,True,SI,2019-01-01
+25421,South Africa,New Year's Day,True,ZA,2019-01-01
+25422,Spain,Año nuevo,True,ES,2019-01-01
+25423,Sweden,Nyårsdagen,True,SE,2019-01-01
+25424,Switzerland,Neujahrestag,True,CH,2019-01-01
+25425,Ukraine,Новий рік,True,UA,2019-01-01
+25426,United Kingdom,New Year's Day,True,GB,2019-01-01
+25427,United States,New Year's Day,True,US,2019-01-01
+25428,Wales,New Year's Day,True,UK,2019-01-01
+25429,New Zealand,Day after New Year's Day,True,NZ,2019-01-02
+25430,Scotland,New Year Holiday,True,UK,2019-01-02
+25431,Slovenia,novo leto,True,SI,2019-01-02
+25432,United Kingdom,New Year Holiday,True,GB,2019-01-02
+25433,Austria,Heilige Drei Könige,True,AT,2019-01-06
+25434,Croatia,Sveta tri kralja,True,HR,2019-01-06
+25435,Finland,Loppiainen,True,FI,2019-01-06
+25436,Italy,Epifania del Signore,True,IT,2019-01-06
+25438,Poland,Święto Trzech Króli,True,PL,2019-01-06
+25439,Spain,Epifanía del Señor,True,ES,2019-01-06
+25440,Sweden,"Trettondedag jul, Söndag",True,SE,2019-01-06
+25441,Belarus,Рождество Христово (православное Рождество),True,BY,2019-01-07
+25442,Colombia,Día de los Reyes Magos [Epiphany],True,CO,2019-01-07
+25443,Ukraine,Різдво Христове (православне),True,UA,2019-01-07
+25446,India,Makar Sankranti / Pongal,False,IN,2019-01-14
+25447,Japan,成人の日,True,JP,2019-01-14
+25450,United States,Martin Luther King Jr. Day,True,US,2019-01-21
+25451,Australia,Australia Day,True,AU,2019-01-26
+25452,India,Republic Day,True,IN,2019-01-26
+25455,Australia,Australia Day,True,AU,2019-01-28
+25458,Mexico,Día de la Constitución [Constitution Day],True,MX,2019-02-04
+25459,Mexico,Día de la Constitución [Constitution Day],True,MX,2019-02-05
+25460,New Zealand,Waitangi Day,True,NZ,2019-02-06
+25461,Slovenia,Prešernov dan,True,SI,2019-02-08
+25464,Japan,建国記念の日,True,JP,2019-02-11
+25467,Canada,Family Day,True,CA,2019-02-18
+25468,United States,Washington's Birthday,True,US,2019-02-18
+25473,Argentina,Día de Carnaval [Carnival's Day],True,AR,2019-03-04
+25474,Argentina,Día de Carnaval [Carnival's Day],True,AR,2019-03-05
+25475,Brazil,Carnaval,True,BR,2019-03-05
+25476,Brazil,Quarta-feira de cinzas (Início da Quaresma),True,BR,2019-03-06
+25477,Belarus,День женщин,True,BY,2019-03-08
+25478,Ukraine,Міжнародний жіночий день,True,UA,2019-03-08
+25481,Hungary,Nemzeti ünnep,True,HU,2019-03-15
+25482,Ireland,St. Patrick's Day,True,IE,2019-03-17
+25483,Northern Ireland,St. Patrick's Day,True,UK,2019-03-17
+25486,United Kingdom,St. Patrick's Day,False,GB,2019-03-17
+25487,Ireland,St. Patrick's Day,True,IE,2019-03-18
+25488,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2019-03-18
+25489,Northern Ireland,St. Patrick's Day,True,UK,2019-03-18
+25490,United Kingdom,St. Patrick's Day,False,GB,2019-03-18
+25491,Japan,春分の日,True,JP,2019-03-21
+25492,Mexico,Natalicio de Benito Juárez [Benito Juárez's birthday],True,MX,2019-03-21
+25493,South Africa,Human Rights Day,True,ZA,2019-03-21
+25494,Argentina,Día Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],True,AR,2019-03-24
+25497,Colombia,Día de San José [Saint Joseph's Day],True,CO,2019-03-25
+25500,Argentina,Día del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],True,AR,2019-04-02
+25503,Denmark,Palmesøndag,True,DK,2019-04-14
+25506,Argentina,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],True,AR,2019-04-18
+25507,Colombia,Jueves Santo [Maundy Thursday],True,CO,2019-04-18
+25508,Denmark,Skærtorsdag,True,DK,2019-04-18
+25509,Norway,Skjærtorsdag,True,NO,2019-04-18
+25510,Argentina,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],True,AR,2019-04-19
+25511,Australia,Good Friday,True,AU,2019-04-19
+25512,Brazil,Sexta-feira Santa,True,BR,2019-04-19
+25513,Canada,Good Friday,True,CA,2019-04-19
+25514,Colombia,Viernes Santo [Good Friday],True,CO,2019-04-19
+25515,Czech,Velký pátek,True,CZ,2019-04-19
+25516,Denmark,Langfredag,True,DK,2019-04-19
+25517,England,Good Friday,True,UK,2019-04-19
+25518,Finland,Pitkäperjantai,True,FI,2019-04-19
+25519,Germany,Karfreitag,True,DE,2019-04-19
+25520,Hungary,Nagypéntek,True,HU,2019-04-19
+25521,Isle of Man,Good Friday,True,IM,2019-04-19
+25522,Netherlands,Goede Vrijdag,True,NL,2019-04-19
+25523,New Zealand,Good Friday,True,NZ,2019-04-19
+25524,Northern Ireland,Good Friday,True,UK,2019-04-19
+25525,Norway,Langfredag,True,NO,2019-04-19
+25526,Portugal,Sexta-feira Santa,True,PT,2019-04-19
+25527,Scotland,Good Friday,True,UK,2019-04-19
+25528,South Africa,Good Friday,True,ZA,2019-04-19
+25529,Sweden,Långfredagen,True,SE,2019-04-19
+25530,Switzerland,Karfreitag,True,CH,2019-04-19
+25531,United Kingdom,Good Friday,True,GB,2019-04-19
+25532,Wales,Good Friday,True,UK,2019-04-19
+25533,Argentina,Día de Pascuas [Easter Day],True,AR,2019-04-21
+25534,Belgium,Pasen,True,BE,2019-04-21
+25535,Brazil,"Páscoa, Tiradentes",True,BR,2019-04-21
+25536,Croatia,Uskrs,True,HR,2019-04-21
+25537,Denmark,Påskedag,True,DK,2019-04-21
+25538,Finland,Pääsiäispäivä,True,FI,2019-04-21
+25539,Hungary,Húsvét,True,HU,2019-04-21
+25540,Italy,Pasqua di Resurrezione,True,IT,2019-04-21
+25541,Netherlands,Eerste paasdag,True,NL,2019-04-21
+25542,Norway,"Første påskedag, Søndag",True,NO,2019-04-21
+25543,Poland,Niedziela Wielkanocna,True,PL,2019-04-21
+25544,Portugal,Páscoa,True,PT,2019-04-21
+25545,Sweden,"Påskdagen, Söndag",True,SE,2019-04-21
+25546,Switzerland,Ostern,True,CH,2019-04-21
+25547,Australia,Easter Monday,True,AU,2019-04-22
+25548,Austria,Ostermontag,True,AT,2019-04-22
+25549,Belgium,Paasmaandag,True,BE,2019-04-22
+25550,Croatia,Uskrsni ponedjeljak,True,HR,2019-04-22
+25551,Czech,Velikonoční pondělí,True,CZ,2019-04-22
+25552,Denmark,Anden påskedag,True,DK,2019-04-22
+25553,England,Easter Monday,True,UK,2019-04-22
+25554,Finland,2. pääsiäispäivä,True,FI,2019-04-22
+25555,France,Lundi de Pâques,True,FR,2019-04-22
+25556,Germany,Ostermontag,True,DE,2019-04-22
+25557,Hungary,Húsvét Hétfő,True,HU,2019-04-22
+25558,Ireland,Easter Monday,True,IE,2019-04-22
+25559,Isle of Man,Easter Monday,True,IM,2019-04-22
+25560,Italy,Lunedì dell'Angelo,True,IT,2019-04-22
+25561,Netherlands,Tweede paasdag,True,NL,2019-04-22
+25562,New Zealand,Easter Monday,True,NZ,2019-04-22
+25563,Northern Ireland,Easter Monday,True,UK,2019-04-22
+25564,Norway,Andre påskedag,True,NO,2019-04-22
+25565,Poland,Poniedziałek Wielkanocny,True,PL,2019-04-22
+25566,Slovenia,Velikonočni ponedeljek,True,SI,2019-04-22
+25567,South Africa,Family Day,True,ZA,2019-04-22
+25568,Sweden,Annandag påsk,True,SE,2019-04-22
+25569,Switzerland,Ostermontag,True,CH,2019-04-22
+25570,United Kingdom,Easter Monday,True,GB,2019-04-22
+25571,Wales,Easter Monday,True,UK,2019-04-22
+25572,Australia,Anzac Day,True,AU,2019-04-25
+25573,Italy,Festa della Liberazione,True,IT,2019-04-25
+25574,New Zealand,Anzac Day,True,NZ,2019-04-25
+25575,Portugal,Dia da Liberdade,True,PT,2019-04-25
+25576,Netherlands,Koningsdag,True,NL,2019-04-27
+25577,Slovenia,dan upora proti okupatorju,True,SI,2019-04-27
+25578,South Africa,Freedom Day,True,ZA,2019-04-27
+25581,Ukraine,Пасха (Великдень),True,UA,2019-04-28
+25582,Japan,昭和の日,True,JP,2019-04-29
+25583,Japan,国民の休日,True,JP,2019-04-30
+25584,Argentina,Día del Trabajo [Labour Day],True,AR,2019-05-01
+25585,Austria,Staatsfeiertag,True,AT,2019-05-01
+25586,Belarus,Праздник труда,True,BY,2019-05-01
+25587,Belgium,Dag van de Arbeid,True,BE,2019-05-01
+25588,Brazil,Dia Mundial do Trabalho,True,BR,2019-05-01
+25589,Colombia,Día del Trabajo [Labour Day],True,CO,2019-05-01
+25590,Croatia,Međunarodni praznik rada,True,HR,2019-05-01
+25591,Czech,Svátek práce,True,CZ,2019-05-01
+25592,Finland,Vappu,True,FI,2019-05-01
+25593,France,Fête du Travail,True,FR,2019-05-01
+25594,Germany,Erster Mai,True,DE,2019-05-01
+25595,Hungary,A Munka ünnepe,True,HU,2019-05-01
+25596,India,Labour Day,False,IN,2019-05-01
+25597,Italy,Festa dei Lavoratori,True,IT,2019-05-01
+25598,Japan,天皇の即位の日,True,JP,2019-05-01
+25599,Mexico,Día del Trabajo [Labour Day],True,MX,2019-05-01
+25600,Norway,Arbeidernes dag,True,NO,2019-05-01
+25601,Poland,Święto Państwowe,True,PL,2019-05-01
+25602,Portugal,Dia do Trabalhador,True,PT,2019-05-01
+25603,Slovenia,praznik dela,True,SI,2019-05-01
+25604,South Africa,Workers' Day,True,ZA,2019-05-01
+25605,Spain,Día del Trabajador,True,ES,2019-05-01
+25606,Sweden,Första maj,True,SE,2019-05-01
+25607,Ukraine,День праці,True,UA,2019-05-01
+25608,Japan,国民の休日,True,JP,2019-05-02
+25609,Slovenia,praznik dela,True,SI,2019-05-02
+25610,Japan,憲法記念日,True,JP,2019-05-03
+25611,Poland,Święto Narodowe Trzeciego Maja,True,PL,2019-05-03
+25612,Japan,みどりの日,True,JP,2019-05-04
+25613,Japan,こどもの日,True,JP,2019-05-05
+25616,England,May Day,True,UK,2019-05-06
+25617,Ireland,May Day,True,IE,2019-05-06
+25618,Isle of Man,May Day,True,IM,2019-05-06
+25619,Japan,振替休日,True,JP,2019-05-06
+25620,Northern Ireland,May Day,True,UK,2019-05-06
+25621,Scotland,May Day,True,UK,2019-05-06
+25622,United Kingdom,May Day,True,GB,2019-05-06
+25623,Wales,May Day,True,UK,2019-05-06
+25624,Belarus,Радуница,True,BY,2019-05-07
+25625,Czech,Den vítězství,True,CZ,2019-05-08
+25626,France,Armistice 1945,True,FR,2019-05-08
+25627,South Africa,National and provincial government elections,True,ZA,2019-05-08
+25628,Belarus,День Победы,True,BY,2019-05-09
+25629,Ukraine,День перемоги,True,UA,2019-05-09
+25632,Denmark,Store bededag,True,DK,2019-05-17
+25633,Norway,Grunnlovsdag,True,NO,2019-05-17
+25636,Canada,Victoria Day,True,CA,2019-05-20
+25637,Argentina,Día de la Revolucion de Mayo [May Revolution Day],True,AR,2019-05-25
+25640,England,Spring Bank Holiday,True,UK,2019-05-27
+25641,Isle of Man,Spring Bank Holiday,True,IM,2019-05-27
+25642,Northern Ireland,Spring Bank Holiday,True,UK,2019-05-27
+25643,Scotland,Spring Bank Holiday,True,UK,2019-05-27
+25644,United Kingdom,Spring Bank Holiday,True,GB,2019-05-27
+25645,United States,Memorial Day,True,US,2019-05-27
+25646,Wales,Spring Bank Holiday,True,UK,2019-05-27
+25647,Austria,Christi Himmelfahrt,True,AT,2019-05-30
+25648,Belgium,O.L.H. Hemelvaart,True,BE,2019-05-30
+25649,Denmark,Kristi himmelfartsdag,True,DK,2019-05-30
+25650,Finland,Helatorstai,True,FI,2019-05-30
+25651,France,Ascension,True,FR,2019-05-30
+25652,Germany,Christi Himmelfahrt,True,DE,2019-05-30
+25653,Netherlands,Hemelvaart,True,NL,2019-05-30
+25654,Norway,Kristi himmelfartsdag,True,NO,2019-05-30
+25655,Sweden,Kristi himmelsfärdsdag,True,SE,2019-05-30
+25656,Switzerland,Auffahrt,True,CH,2019-05-30
+25657,Italy,Festa della Repubblica,True,IT,2019-06-02
+25660,Colombia,Ascensión del señor [Ascension of Jesus],True,CO,2019-06-03
+25661,Ireland,June Bank Holiday,True,IE,2019-06-03
+25662,New Zealand,Queen's Birthday,True,NZ,2019-06-03
+25663,Sweden,Sveriges nationaldag,True,SE,2019-06-06
+25664,Isle of Man,TT Bank Holiday,True,IM,2019-06-07
+25665,Belgium,Pinksteren,True,BE,2019-06-09
+25666,Denmark,Pinsedag,True,DK,2019-06-09
+25667,Finland,Helluntaipäivä,True,FI,2019-06-09
+25668,Hungary,Pünkösd,True,HU,2019-06-09
+25669,Netherlands,Eerste Pinksterdag,True,NL,2019-06-09
+25670,Norway,"Første pinsedag, Søndag",True,NO,2019-06-09
+25671,Poland,Zielone Świątki,True,PL,2019-06-09
+25672,Sweden,"Pingstdagen, Söndag",True,SE,2019-06-09
+25673,Switzerland,Pfingsten,True,CH,2019-06-09
+25674,Austria,Pfingstmontag,True,AT,2019-06-10
+25675,Belgium,Pinkstermaandag,True,BE,2019-06-10
+25676,Denmark,Anden pinsedag,True,DK,2019-06-10
+25677,France,Lundi de Pentecôte,True,FR,2019-06-10
+25678,Germany,Pfingstmontag,True,DE,2019-06-10
+25679,Hungary,Pünkösdhétfő,True,HU,2019-06-10
+25680,Netherlands,Tweede Pinksterdag,True,NL,2019-06-10
+25681,Norway,Andre pinsedag,True,NO,2019-06-10
+25682,Portugal,Dia de Portugal,True,PT,2019-06-10
+25683,Switzerland,Pfingstmontag,True,CH,2019-06-10
+25685,South Africa,Youth Day,True,ZA,2019-06-16
+25687,Ukraine,Трійця,True,UA,2019-06-16
+25688,Argentina,Día Pase a la Inmortalidad del General Martín Miguel de Güemes [Day Pass to the Immortality of General Martín Miguel de Güemes],True,AR,2019-06-17
+25689,South Africa,Youth Day,True,ZA,2019-06-17
+25690,Argentina,Día Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],True,AR,2019-06-20
+25691,Austria,Fronleichnam,True,AT,2019-06-20
+25692,Brazil,Corpus Christi,True,BR,2019-06-20
+25693,Croatia,Tijelovo,True,HR,2019-06-20
+25694,Poland,Dzień Bożego Ciała,True,PL,2019-06-20
+25695,Portugal,Corpo de Deus,True,PT,2019-06-20
+25696,Finland,Juhannusaatto,True,FI,2019-06-21
+25697,Sweden,Midsommarafton,True,SE,2019-06-21
+25698,Croatia,Dan antifašističke borbe,True,HR,2019-06-22
+25699,Finland,Juhannuspäivä,True,FI,2019-06-22
+25700,Sweden,Midsommardagen,True,SE,2019-06-22
+25703,Colombia,Corpus Christi [Corpus Christi],True,CO,2019-06-24
+25704,Croatia,Dan državnosti,True,HR,2019-06-25
+25705,Slovenia,dan državnosti,True,SI,2019-06-25
+25706,Ukraine,День Конституції України,True,UA,2019-06-28
+25709,Canada,Canada Day,True,CA,2019-07-01
+25710,Colombia,"Sagrado Corazón [Sacred Heart], San Pedro y San Pablo [Saint Peter and Saint Paul]",True,CO,2019-07-01
+25711,Belarus,День Независимости Республики Беларусь (День Республики),True,BY,2019-07-03
+25712,United States,Independence Day,True,US,2019-07-04
+25713,Czech,Den slovanských věrozvěstů Cyrila a Metoděje,True,CZ,2019-07-05
+25714,Isle of Man,Tynwald Day,True,IM,2019-07-05
+25715,Czech,Den upálení mistra Jana Husa,True,CZ,2019-07-06
+25718,Argentina,Día de la Independencia [Independence Day],True,AR,2019-07-09
+25719,Northern Ireland,Battle of the Boyne,True,UK,2019-07-12
+25720,United Kingdom,Battle of the Boyne,False,GB,2019-07-12
+25721,France,Fête nationale,True,FR,2019-07-14
+25724,Japan,海の日,True,JP,2019-07-15
+25725,Belgium,Nationale feestdag,True,BE,2019-07-21
+25730,Switzerland,Nationalfeiertag,True,CH,2019-08-01
+25733,Canada,Civic Holiday,True,CA,2019-08-05
+25734,Croatia,Dan pobjede i domovinske zahvalnosti,True,HR,2019-08-05
+25735,Ireland,Summer Bank Holiday,True,IE,2019-08-05
+25736,Scotland,Summer Bank Holiday,True,UK,2019-08-05
+25737,United Kingdom,Summer Bank Holiday,False,GB,2019-08-05
+25738,Colombia,Batalla de Boyacá [Battle of Boyacá],True,CO,2019-08-07
+25739,South Africa,National Women's Day,True,ZA,2019-08-09
+25740,Japan,山の日,True,JP,2019-08-11
+25743,Japan,振替休日,True,JP,2019-08-12
+25744,Austria,Mariä Himmelfahrt,True,AT,2019-08-15
+25745,Belgium,O.L.V. Hemelvaart,True,BE,2019-08-15
+25746,Croatia,Velika Gospa,True,HR,2019-08-15
+25747,France,Assomption,True,FR,2019-08-15
+25748,India,Independence Day,True,IN,2019-08-15
+25749,Italy,Assunzione della Vergine,True,IT,2019-08-15
+25750,Poland,Wniebowzięcie Najświętszej Marii Panny,True,PL,2019-08-15
+25751,Portugal,Assunção de Nossa Senhora,True,PT,2019-08-15
+25752,Slovenia,Marijino vnebovzetje,True,SI,2019-08-15
+25753,Spain,Asunción de la Virgen,True,ES,2019-08-15
+25754,Argentina,Día Pase a la Inmortalidad del General D. José de San Martin [Day Pass to the Immortality of General D. José de San Martin],True,AR,2019-08-17
+25757,Colombia,La Asunción [Assumption of Mary],True,CO,2019-08-19
+25758,Hungary,Az államalapítás ünnepe előtti pihenőnap,True,HU,2019-08-19
+25759,Hungary,Az államalapítás ünnepe,True,HU,2019-08-20
+25760,Ukraine,День незалежності України,True,UA,2019-08-24
+25763,England,Late Summer Bank Holiday,True,UK,2019-08-26
+25764,Isle of Man,Late Summer Bank Holiday,True,IM,2019-08-26
+25765,Northern Ireland,Late Summer Bank Holiday,True,UK,2019-08-26
+25766,United Kingdom,Late Summer Bank Holiday,True,GB,2019-08-26
+25767,Wales,Late Summer Bank Holiday,True,UK,2019-08-26
